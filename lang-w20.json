@@ -24,7 +24,8 @@
     "instructorOverallMean": 86.7,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 14.7,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "19-20",
@@ -51,7 +52,8 @@
     "instructorOverallMean": 86.7,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 14.7,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "19-20",

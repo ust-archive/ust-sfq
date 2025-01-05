@@ -24,7 +24,8 @@
     "instructorOverallMean": 87.6,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 15.8,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "18-19",
@@ -51,7 +52,8 @@
     "instructorOverallMean": 86.9,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 18.3,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "18-19",
@@ -106,7 +108,8 @@
     "instructorOverallMean": 87.3,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 14.9,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "18-19",
@@ -665,7 +668,8 @@
     "instructorOverallMean": 91.9,
     "instructorOverallMeanAdjusted": 93.1,
     "instructorOverallSD": 13.5,
-    "instructorOverallSDAdjusted": 11.4
+    "instructorOverallSDAdjusted": 11.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "18-19",
@@ -692,7 +696,8 @@
     "instructorOverallMean": 91.9,
     "instructorOverallMeanAdjusted": 93.1,
     "instructorOverallSD": 13.5,
-    "instructorOverallSDAdjusted": 11.4
+    "instructorOverallSDAdjusted": 11.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "18-19",
@@ -719,7 +724,8 @@
     "instructorOverallMean": 91.9,
     "instructorOverallMeanAdjusted": 93.1,
     "instructorOverallSD": 13.5,
-    "instructorOverallSDAdjusted": 11.4
+    "instructorOverallSDAdjusted": 11.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "18-19",
@@ -746,7 +752,8 @@
     "instructorOverallMean": 86.3,
     "instructorOverallMeanAdjusted": 86.8,
     "instructorOverallSD": 15.1,
-    "instructorOverallSDAdjusted": 14.3
+    "instructorOverallSDAdjusted": 14.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "18-19",
@@ -773,7 +780,8 @@
     "instructorOverallMean": 86.3,
     "instructorOverallMeanAdjusted": 86.8,
     "instructorOverallSD": 15.1,
-    "instructorOverallSDAdjusted": 14.3
+    "instructorOverallSDAdjusted": 14.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "18-19",
@@ -800,6 +808,7 @@
     "instructorOverallMean": 86.3,
     "instructorOverallMeanAdjusted": 86.8,
     "instructorOverallSD": 15.1,
-    "instructorOverallSDAdjusted": 14.3
+    "instructorOverallSDAdjusted": 14.3,
+    "lowResponseRateIndicator": false
   }
 ]

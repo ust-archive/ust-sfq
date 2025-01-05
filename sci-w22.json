@@ -17,14 +17,15 @@
     "responseRate": 1,
     "responseRateAdjusted": null,
     "numberOfSectionsEvaluated": 2,
-    "courseOverallMean": 4.8,
+    "courseOverallMean": 95,
     "courseOverallMeanAdjusted": null,
-    "courseOverallSD": 0.45,
+    "courseOverallSD": 11.25,
     "courseOverallSDAdjusted": null,
-    "instructorOverallMean": 5,
+    "instructorOverallMean": 100,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 0,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "21-22",
@@ -44,14 +45,15 @@
     "responseRate": 1,
     "responseRateAdjusted": null,
     "numberOfSectionsEvaluated": 1,
-    "courseOverallMean": 4.67,
+    "courseOverallMean": 91.75,
     "courseOverallMeanAdjusted": null,
-    "courseOverallSD": 0.58,
+    "courseOverallSD": 14.499999999999998,
     "courseOverallSDAdjusted": null,
-    "instructorOverallMean": 5,
+    "instructorOverallMean": 100,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 0,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "21-22",
@@ -71,14 +73,15 @@
     "responseRate": 1,
     "responseRateAdjusted": null,
     "numberOfSectionsEvaluated": 1,
-    "courseOverallMean": 5,
+    "courseOverallMean": 100,
     "courseOverallMeanAdjusted": null,
     "courseOverallSD": 0,
     "courseOverallSDAdjusted": null,
-    "instructorOverallMean": 5,
+    "instructorOverallMean": 100,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 0,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "21-22",
@@ -98,14 +101,15 @@
     "responseRate": 1,
     "responseRateAdjusted": 0.333,
     "numberOfSectionsEvaluated": 1,
-    "courseOverallMean": 4.67,
-    "courseOverallMeanAdjusted": 5,
-    "courseOverallSD": 0.58,
+    "courseOverallMean": 91.75,
+    "courseOverallMeanAdjusted": 100,
+    "courseOverallSD": 14.499999999999998,
     "courseOverallSDAdjusted": 0,
-    "instructorOverallMean": 5,
-    "instructorOverallMeanAdjusted": 5,
+    "instructorOverallMean": 100,
+    "instructorOverallMeanAdjusted": 100,
     "instructorOverallSD": 0,
-    "instructorOverallSDAdjusted": 0
+    "instructorOverallSDAdjusted": 0,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "21-22",
@@ -125,14 +129,15 @@
     "responseRate": 1,
     "responseRateAdjusted": 0.333,
     "numberOfSectionsEvaluated": null,
-    "courseOverallMean": 4.67,
-    "courseOverallMeanAdjusted": 5,
-    "courseOverallSD": 0.58,
+    "courseOverallMean": 91.75,
+    "courseOverallMeanAdjusted": 100,
+    "courseOverallSD": 14.499999999999998,
     "courseOverallSDAdjusted": 0,
-    "instructorOverallMean": 5,
-    "instructorOverallMeanAdjusted": 5,
+    "instructorOverallMean": 100,
+    "instructorOverallMeanAdjusted": 100,
     "instructorOverallSD": 0,
-    "instructorOverallSDAdjusted": 0
+    "instructorOverallSDAdjusted": 0,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "21-22",
@@ -152,14 +157,15 @@
     "responseRate": 1,
     "responseRateAdjusted": 0.333,
     "numberOfSectionsEvaluated": null,
-    "courseOverallMean": 4.67,
-    "courseOverallMeanAdjusted": 5,
-    "courseOverallSD": 0.58,
+    "courseOverallMean": 91.75,
+    "courseOverallMeanAdjusted": 100,
+    "courseOverallSD": 14.499999999999998,
     "courseOverallSDAdjusted": 0,
-    "instructorOverallMean": 5,
-    "instructorOverallMeanAdjusted": 5,
+    "instructorOverallMean": 100,
+    "instructorOverallMeanAdjusted": 100,
     "instructorOverallSD": 0,
-    "instructorOverallSDAdjusted": 0
+    "instructorOverallSDAdjusted": 0,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "21-22",
@@ -179,14 +185,15 @@
     "responseRate": 1,
     "responseRateAdjusted": null,
     "numberOfSectionsEvaluated": 1,
-    "courseOverallMean": 5,
+    "courseOverallMean": 100,
     "courseOverallMeanAdjusted": null,
     "courseOverallSD": 0,
     "courseOverallSDAdjusted": null,
-    "instructorOverallMean": 5,
+    "instructorOverallMean": 100,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 0,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "21-22",
@@ -206,14 +213,15 @@
     "responseRate": 1,
     "responseRateAdjusted": null,
     "numberOfSectionsEvaluated": null,
-    "courseOverallMean": 5,
+    "courseOverallMean": 100,
     "courseOverallMeanAdjusted": null,
     "courseOverallSD": 0,
     "courseOverallSDAdjusted": null,
-    "instructorOverallMean": 5,
+    "instructorOverallMean": 100,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 0,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "21-22",
@@ -233,13 +241,14 @@
     "responseRate": 1,
     "responseRateAdjusted": null,
     "numberOfSectionsEvaluated": null,
-    "courseOverallMean": 5,
+    "courseOverallMean": 100,
     "courseOverallMeanAdjusted": null,
     "courseOverallSD": 0,
     "courseOverallSDAdjusted": null,
-    "instructorOverallMean": 5,
+    "instructorOverallMean": 100,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 0,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   }
 ]

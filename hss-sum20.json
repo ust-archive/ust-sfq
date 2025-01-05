@@ -24,7 +24,8 @@
     "instructorOverallMean": 88.7,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 18,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "19-20",
@@ -79,7 +80,8 @@
     "instructorOverallMean": 88.5,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 17.9,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "19-20",
@@ -106,7 +108,8 @@
     "instructorOverallMean": 95,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 10.3,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "19-20",
@@ -217,7 +220,8 @@
     "instructorOverallMean": 81,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 18.9,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "19-20",
@@ -244,7 +248,8 @@
     "instructorOverallMean": 81,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 18.9,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "19-20",
@@ -271,7 +276,8 @@
     "instructorOverallMean": 81,
     "instructorOverallMeanAdjusted": 81.7,
     "instructorOverallSD": 18.9,
-    "instructorOverallSDAdjusted": 17.5
+    "instructorOverallSDAdjusted": 17.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "19-20",
@@ -298,7 +304,8 @@
     "instructorOverallMean": 95.4,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 10.4,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "19-20",
@@ -325,7 +332,8 @@
     "instructorOverallMean": 95.4,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 10.4,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "19-20",
@@ -352,7 +360,8 @@
     "instructorOverallMean": 95.4,
     "instructorOverallMeanAdjusted": 96,
     "instructorOverallSD": 10.4,
-    "instructorOverallSDAdjusted": 9.2
+    "instructorOverallSDAdjusted": 9.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "19-20",
@@ -379,7 +388,8 @@
     "instructorOverallMean": 97.1,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 10.1,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "19-20",
@@ -406,7 +416,8 @@
     "instructorOverallMean": 97.1,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 10.1,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "19-20",
@@ -433,7 +444,8 @@
     "instructorOverallMean": 97.1,
     "instructorOverallMeanAdjusted": 98.5,
     "instructorOverallSD": 10.1,
-    "instructorOverallSDAdjusted": 6.1
+    "instructorOverallSDAdjusted": 6.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "19-20",
@@ -460,7 +472,8 @@
     "instructorOverallMean": 73.6,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 23.9,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "19-20",
@@ -487,7 +500,8 @@
     "instructorOverallMean": 73.6,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 23.9,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "19-20",
@@ -514,7 +528,8 @@
     "instructorOverallMean": 73.6,
     "instructorOverallMeanAdjusted": 75,
     "instructorOverallSD": 23.9,
-    "instructorOverallSDAdjusted": 20.4
+    "instructorOverallSDAdjusted": 20.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "19-20",

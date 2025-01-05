@@ -24,7 +24,8 @@
     "instructorOverallMean": 83.2,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 20.9,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -51,7 +52,8 @@
     "instructorOverallMean": 83.7,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 20.4,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -78,7 +80,8 @@
     "instructorOverallMean": 80.8,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 23.4,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -105,7 +108,8 @@
     "instructorOverallMean": 83.1,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 20.9,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -188,7 +192,8 @@
     "instructorOverallMean": 85.3,
     "instructorOverallMeanAdjusted": 86.7,
     "instructorOverallSD": 17.8,
-    "instructorOverallSDAdjusted": 16
+    "instructorOverallSDAdjusted": 16,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -215,7 +220,8 @@
     "instructorOverallMean": 85.3,
     "instructorOverallMeanAdjusted": 86.7,
     "instructorOverallSD": 17.8,
-    "instructorOverallSDAdjusted": 16
+    "instructorOverallSDAdjusted": 16,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -242,7 +248,8 @@
     "instructorOverallMean": 94.2,
     "instructorOverallMeanAdjusted": 97.7,
     "instructorOverallSD": 15,
-    "instructorOverallSDAdjusted": 7.5
+    "instructorOverallSDAdjusted": 7.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -269,7 +276,8 @@
     "instructorOverallMean": 94.2,
     "instructorOverallMeanAdjusted": 97.7,
     "instructorOverallSD": 15,
-    "instructorOverallSDAdjusted": 7.5
+    "instructorOverallSDAdjusted": 7.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -296,7 +304,8 @@
     "instructorOverallMean": 90.3,
     "instructorOverallMeanAdjusted": 92.2,
     "instructorOverallSD": 15.2,
-    "instructorOverallSDAdjusted": 12
+    "instructorOverallSDAdjusted": 12,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -323,7 +332,8 @@
     "instructorOverallMean": 90.3,
     "instructorOverallMeanAdjusted": 92.2,
     "instructorOverallSD": 15.2,
-    "instructorOverallSDAdjusted": 12
+    "instructorOverallSDAdjusted": 12,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -406,7 +416,8 @@
     "instructorOverallMean": 92.1,
     "instructorOverallMeanAdjusted": 94.1,
     "instructorOverallSD": 14.6,
-    "instructorOverallSDAdjusted": 10.9
+    "instructorOverallSDAdjusted": 10.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -433,7 +444,8 @@
     "instructorOverallMean": 92.1,
     "instructorOverallMeanAdjusted": 94.1,
     "instructorOverallSD": 14.6,
-    "instructorOverallSDAdjusted": 10.9
+    "instructorOverallSDAdjusted": 10.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -460,7 +472,8 @@
     "instructorOverallMean": 84.4,
     "instructorOverallMeanAdjusted": 85.7,
     "instructorOverallSD": 20.2,
-    "instructorOverallSDAdjusted": 18.9
+    "instructorOverallSDAdjusted": 18.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -487,7 +500,8 @@
     "instructorOverallMean": 84.4,
     "instructorOverallMeanAdjusted": 85.7,
     "instructorOverallSD": 20.2,
-    "instructorOverallSDAdjusted": 18.9
+    "instructorOverallSDAdjusted": 18.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -570,7 +584,8 @@
     "instructorOverallMean": 87.5,
     "instructorOverallMeanAdjusted": 87.5,
     "instructorOverallSD": 12.9,
-    "instructorOverallSDAdjusted": 13
+    "instructorOverallSDAdjusted": 13,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -597,7 +612,8 @@
     "instructorOverallMean": 87.5,
     "instructorOverallMeanAdjusted": 87.5,
     "instructorOverallSD": 12.9,
-    "instructorOverallSDAdjusted": 13
+    "instructorOverallSDAdjusted": 13,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -624,7 +640,8 @@
     "instructorOverallMean": 93.8,
     "instructorOverallMeanAdjusted": 94.6,
     "instructorOverallSD": 11.2,
-    "instructorOverallSDAdjusted": 10.6
+    "instructorOverallSDAdjusted": 10.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -651,7 +668,8 @@
     "instructorOverallMean": 93.8,
     "instructorOverallMeanAdjusted": 94.6,
     "instructorOverallSD": 11.2,
-    "instructorOverallSDAdjusted": 10.6
+    "instructorOverallSDAdjusted": 10.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -678,7 +696,8 @@
     "instructorOverallMean": 71.9,
     "instructorOverallMeanAdjusted": 75,
     "instructorOverallSD": 23.9,
-    "instructorOverallSDAdjusted": 13.9
+    "instructorOverallSDAdjusted": 13.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -705,7 +724,8 @@
     "instructorOverallMean": 71.9,
     "instructorOverallMeanAdjusted": 75,
     "instructorOverallSD": 23.9,
-    "instructorOverallSDAdjusted": 13.9
+    "instructorOverallSDAdjusted": 13.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -788,7 +808,8 @@
     "instructorOverallMean": 90,
     "instructorOverallMeanAdjusted": 92.3,
     "instructorOverallSD": 15.8,
-    "instructorOverallSDAdjusted": 12
+    "instructorOverallSDAdjusted": 12,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -815,7 +836,8 @@
     "instructorOverallMean": 90,
     "instructorOverallMeanAdjusted": 92.3,
     "instructorOverallSD": 15.8,
-    "instructorOverallSDAdjusted": 12
+    "instructorOverallSDAdjusted": 12,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -898,7 +920,8 @@
     "instructorOverallMean": 85.9,
     "instructorOverallMeanAdjusted": 87.5,
     "instructorOverallSD": 15.7,
-    "instructorOverallSDAdjusted": 13
+    "instructorOverallSDAdjusted": 13,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -925,7 +948,8 @@
     "instructorOverallMean": 85.9,
     "instructorOverallMeanAdjusted": 87.5,
     "instructorOverallSD": 15.7,
-    "instructorOverallSDAdjusted": 13
+    "instructorOverallSDAdjusted": 13,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -952,7 +976,8 @@
     "instructorOverallMean": 84.2,
     "instructorOverallMeanAdjusted": 85.3,
     "instructorOverallSD": 17.1,
-    "instructorOverallSDAdjusted": 15.5
+    "instructorOverallSDAdjusted": 15.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -979,7 +1004,8 @@
     "instructorOverallMean": 84.2,
     "instructorOverallMeanAdjusted": 85.3,
     "instructorOverallSD": 17.1,
-    "instructorOverallSDAdjusted": 15.5
+    "instructorOverallSDAdjusted": 15.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -1006,7 +1032,8 @@
     "instructorOverallMean": 80,
     "instructorOverallMeanAdjusted": 80.6,
     "instructorOverallSD": 19.2,
-    "instructorOverallSDAdjusted": 18.3
+    "instructorOverallSDAdjusted": 18.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -1033,7 +1060,8 @@
     "instructorOverallMean": 80,
     "instructorOverallMeanAdjusted": 80.6,
     "instructorOverallSD": 19.2,
-    "instructorOverallSDAdjusted": 18.3
+    "instructorOverallSDAdjusted": 18.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -1060,7 +1088,8 @@
     "instructorOverallMean": 73.3,
     "instructorOverallMeanAdjusted": 73.1,
     "instructorOverallSD": 17.6,
-    "instructorOverallSDAdjusted": 16
+    "instructorOverallSDAdjusted": 16,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -1087,7 +1116,8 @@
     "instructorOverallMean": 73.3,
     "instructorOverallMeanAdjusted": 73.1,
     "instructorOverallSD": 17.6,
-    "instructorOverallSDAdjusted": 16
+    "instructorOverallSDAdjusted": 16,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -1114,7 +1144,8 @@
     "instructorOverallMean": 86.7,
     "instructorOverallMeanAdjusted": 90.4,
     "instructorOverallSD": 20.8,
-    "instructorOverallSDAdjusted": 12.7
+    "instructorOverallSDAdjusted": 12.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -1141,7 +1172,8 @@
     "instructorOverallMean": 86.7,
     "instructorOverallMeanAdjusted": 90.4,
     "instructorOverallSD": 20.8,
-    "instructorOverallSDAdjusted": 12.7
+    "instructorOverallSDAdjusted": 12.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -1168,7 +1200,8 @@
     "instructorOverallMean": 73.3,
     "instructorOverallMeanAdjusted": 75,
     "instructorOverallSD": 25.8,
-    "instructorOverallSDAdjusted": 22.8
+    "instructorOverallSDAdjusted": 22.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -1195,7 +1228,8 @@
     "instructorOverallMean": 73.3,
     "instructorOverallMeanAdjusted": 75,
     "instructorOverallSD": 25.8,
-    "instructorOverallSDAdjusted": 22.8
+    "instructorOverallSDAdjusted": 22.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -1390,7 +1424,8 @@
     "instructorOverallMean": 82.5,
     "instructorOverallMeanAdjusted": 83.3,
     "instructorOverallSD": 16.4,
-    "instructorOverallSDAdjusted": 14.9
+    "instructorOverallSDAdjusted": 14.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -1417,7 +1452,8 @@
     "instructorOverallMean": 82.5,
     "instructorOverallMeanAdjusted": 83.3,
     "instructorOverallSD": 16.4,
-    "instructorOverallSDAdjusted": 14.9
+    "instructorOverallSDAdjusted": 14.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -1556,7 +1592,8 @@
     "instructorOverallMean": 71.4,
     "instructorOverallMeanAdjusted": 75,
     "instructorOverallSD": 27.5,
-    "instructorOverallSDAdjusted": 18.5
+    "instructorOverallSDAdjusted": 18.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -1583,7 +1620,8 @@
     "instructorOverallMean": 71.4,
     "instructorOverallMeanAdjusted": 75,
     "instructorOverallSD": 27.5,
-    "instructorOverallSDAdjusted": 18.5
+    "instructorOverallSDAdjusted": 18.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -1610,7 +1648,8 @@
     "instructorOverallMean": 76.2,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 21.4,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -1805,7 +1844,8 @@
     "instructorOverallMean": 75,
     "instructorOverallMeanAdjusted": 75,
     "instructorOverallSD": 20.4,
-    "instructorOverallSDAdjusted": 19.4
+    "instructorOverallSDAdjusted": 19.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -1832,7 +1872,8 @@
     "instructorOverallMean": 75,
     "instructorOverallMeanAdjusted": 75,
     "instructorOverallSD": 20.4,
-    "instructorOverallSDAdjusted": 19.4
+    "instructorOverallSDAdjusted": 19.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -1971,7 +2012,8 @@
     "instructorOverallMean": 79.2,
     "instructorOverallMeanAdjusted": 80,
     "instructorOverallSD": 17.9,
-    "instructorOverallSDAdjusted": 15.8
+    "instructorOverallSDAdjusted": 15.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -1998,7 +2040,8 @@
     "instructorOverallMean": 79.2,
     "instructorOverallMeanAdjusted": 80,
     "instructorOverallSD": 17.9,
-    "instructorOverallSDAdjusted": 15.8
+    "instructorOverallSDAdjusted": 15.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -2081,7 +2124,8 @@
     "instructorOverallMean": 91.7,
     "instructorOverallMeanAdjusted": 95,
     "instructorOverallSD": 16.3,
-    "instructorOverallSDAdjusted": 10.5
+    "instructorOverallSDAdjusted": 10.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -2108,7 +2152,8 @@
     "instructorOverallMean": 91.7,
     "instructorOverallMeanAdjusted": 95,
     "instructorOverallSD": 16.3,
-    "instructorOverallSDAdjusted": 10.5
+    "instructorOverallSDAdjusted": 10.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -2191,7 +2236,8 @@
     "instructorOverallMean": 86.4,
     "instructorOverallMeanAdjusted": 88.9,
     "instructorOverallSD": 17.2,
-    "instructorOverallSDAdjusted": 13.2
+    "instructorOverallSDAdjusted": 13.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -2218,7 +2264,8 @@
     "instructorOverallMean": 86.4,
     "instructorOverallMeanAdjusted": 88.9,
     "instructorOverallSD": 17.2,
-    "instructorOverallSDAdjusted": 13.2
+    "instructorOverallSDAdjusted": 13.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -2357,7 +2404,8 @@
     "instructorOverallMean": 79.6,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 21.5,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -2440,7 +2488,8 @@
     "instructorOverallMean": 76.8,
     "instructorOverallMeanAdjusted": 81.3,
     "instructorOverallSD": 26.8,
-    "instructorOverallSDAdjusted": 15.5
+    "instructorOverallSDAdjusted": 15.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -2467,7 +2516,8 @@
     "instructorOverallMean": 76.8,
     "instructorOverallMeanAdjusted": 81.3,
     "instructorOverallSD": 26.8,
-    "instructorOverallSDAdjusted": 15.5
+    "instructorOverallSDAdjusted": 15.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -2634,7 +2684,8 @@
     "instructorOverallMean": 75,
     "instructorOverallMeanAdjusted": 75,
     "instructorOverallSD": 17,
-    "instructorOverallSDAdjusted": 15.1
+    "instructorOverallSDAdjusted": 15.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -2661,7 +2712,8 @@
     "instructorOverallMean": 75,
     "instructorOverallMeanAdjusted": 75,
     "instructorOverallSD": 17,
-    "instructorOverallSDAdjusted": 15.1
+    "instructorOverallSDAdjusted": 15.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -2688,7 +2740,8 @@
     "instructorOverallMean": 78.3,
     "instructorOverallMeanAdjusted": 80.8,
     "instructorOverallSD": 22.9,
-    "instructorOverallSDAdjusted": 18.1
+    "instructorOverallSDAdjusted": 18.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -2715,7 +2768,8 @@
     "instructorOverallMean": 78.3,
     "instructorOverallMeanAdjusted": 80.8,
     "instructorOverallSD": 22.9,
-    "instructorOverallSDAdjusted": 18.1
+    "instructorOverallSDAdjusted": 18.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -2798,7 +2852,8 @@
     "instructorOverallMean": 68.8,
     "instructorOverallMeanAdjusted": 67.9,
     "instructorOverallSD": 19.4,
-    "instructorOverallSDAdjusted": 18.2
+    "instructorOverallSDAdjusted": 18.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -2825,7 +2880,8 @@
     "instructorOverallMean": 68.8,
     "instructorOverallMeanAdjusted": 67.9,
     "instructorOverallSD": 19.4,
-    "instructorOverallSDAdjusted": 18.2
+    "instructorOverallSDAdjusted": 18.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -2852,7 +2908,8 @@
     "instructorOverallMean": 86.8,
     "instructorOverallMeanAdjusted": 88.2,
     "instructorOverallSD": 17.4,
-    "instructorOverallSDAdjusted": 15.6
+    "instructorOverallSDAdjusted": 15.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -2879,7 +2936,8 @@
     "instructorOverallMean": 86.8,
     "instructorOverallMeanAdjusted": 88.2,
     "instructorOverallSD": 17.4,
-    "instructorOverallSDAdjusted": 15.6
+    "instructorOverallSDAdjusted": 15.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -2990,7 +3048,8 @@
     "instructorOverallMean": 83.3,
     "instructorOverallMeanAdjusted": 84.6,
     "instructorOverallSD": 18.1,
-    "instructorOverallSDAdjusted": 16.3
+    "instructorOverallSDAdjusted": 16.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -3017,7 +3076,8 @@
     "instructorOverallMean": 83.3,
     "instructorOverallMeanAdjusted": 84.6,
     "instructorOverallSD": 18.1,
-    "instructorOverallSDAdjusted": 16.3
+    "instructorOverallSDAdjusted": 16.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -3044,7 +3104,8 @@
     "instructorOverallMean": 67.2,
     "instructorOverallMeanAdjusted": 69.6,
     "instructorOverallSD": 33.8,
-    "instructorOverallSDAdjusted": 29.7
+    "instructorOverallSDAdjusted": 29.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -3071,7 +3132,8 @@
     "instructorOverallMean": 67.2,
     "instructorOverallMeanAdjusted": 69.6,
     "instructorOverallSD": 33.8,
-    "instructorOverallSDAdjusted": 29.7
+    "instructorOverallSDAdjusted": 29.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -3098,7 +3160,8 @@
     "instructorOverallMean": 82.1,
     "instructorOverallMeanAdjusted": 83.3,
     "instructorOverallSD": 18.2,
-    "instructorOverallSDAdjusted": 16.3
+    "instructorOverallSDAdjusted": 16.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -3125,7 +3188,8 @@
     "instructorOverallMean": 82.1,
     "instructorOverallMeanAdjusted": 83.3,
     "instructorOverallSD": 18.2,
-    "instructorOverallSDAdjusted": 16.3
+    "instructorOverallSDAdjusted": 16.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -3208,7 +3272,8 @@
     "instructorOverallMean": 73.5,
     "instructorOverallMeanAdjusted": 75,
     "instructorOverallSD": 18.7,
-    "instructorOverallSDAdjusted": 13.4
+    "instructorOverallSDAdjusted": 13.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -3235,7 +3300,8 @@
     "instructorOverallMean": 73.5,
     "instructorOverallMeanAdjusted": 75,
     "instructorOverallSD": 18.7,
-    "instructorOverallSDAdjusted": 13.4
+    "instructorOverallSDAdjusted": 13.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -3318,7 +3384,8 @@
     "instructorOverallMean": 82.4,
     "instructorOverallMeanAdjusted": 85,
     "instructorOverallSD": 23,
-    "instructorOverallSDAdjusted": 18.4
+    "instructorOverallSDAdjusted": 18.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -3345,7 +3412,8 @@
     "instructorOverallMean": 82.4,
     "instructorOverallMeanAdjusted": 85,
     "instructorOverallSD": 23,
-    "instructorOverallSDAdjusted": 18.4
+    "instructorOverallSDAdjusted": 18.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -3372,7 +3440,8 @@
     "instructorOverallMean": 79.2,
     "instructorOverallMeanAdjusted": 81.3,
     "instructorOverallSD": 21.4,
-    "instructorOverallSDAdjusted": 17.1
+    "instructorOverallSDAdjusted": 17.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -3399,7 +3468,8 @@
     "instructorOverallMean": 79.2,
     "instructorOverallMeanAdjusted": 81.3,
     "instructorOverallSD": 21.4,
-    "instructorOverallSDAdjusted": 17.1
+    "instructorOverallSDAdjusted": 17.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -3426,7 +3496,8 @@
     "instructorOverallMean": 81.7,
     "instructorOverallMeanAdjusted": 84.6,
     "instructorOverallSD": 24,
-    "instructorOverallSDAdjusted": 19.2
+    "instructorOverallSDAdjusted": 19.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -3453,7 +3524,8 @@
     "instructorOverallMean": 81.7,
     "instructorOverallMeanAdjusted": 84.6,
     "instructorOverallSD": 24,
-    "instructorOverallSDAdjusted": 19.2
+    "instructorOverallSDAdjusted": 19.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -3592,7 +3664,8 @@
     "instructorOverallMean": 88.9,
     "instructorOverallMeanAdjusted": 90.6,
     "instructorOverallSD": 15.4,
-    "instructorOverallSDAdjusted": 12.5
+    "instructorOverallSDAdjusted": 12.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -3619,7 +3692,8 @@
     "instructorOverallMean": 88.9,
     "instructorOverallMeanAdjusted": 90.6,
     "instructorOverallSD": 15.4,
-    "instructorOverallSDAdjusted": 12.5
+    "instructorOverallSDAdjusted": 12.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4038,7 +4112,8 @@
     "instructorOverallMean": 85.5,
     "instructorOverallMeanAdjusted": 86.8,
     "instructorOverallSD": 19.2,
-    "instructorOverallSDAdjusted": 17.9
+    "instructorOverallSDAdjusted": 17.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4065,7 +4140,8 @@
     "instructorOverallMean": 85.5,
     "instructorOverallMeanAdjusted": 86.8,
     "instructorOverallSD": 19.2,
-    "instructorOverallSDAdjusted": 17.9
+    "instructorOverallSDAdjusted": 17.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4092,7 +4168,8 @@
     "instructorOverallMean": 91.1,
     "instructorOverallMeanAdjusted": 91.7,
     "instructorOverallSD": 12.4,
-    "instructorOverallSDAdjusted": 12.3
+    "instructorOverallSDAdjusted": 12.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4119,7 +4196,8 @@
     "instructorOverallMean": 91.1,
     "instructorOverallMeanAdjusted": 91.7,
     "instructorOverallSD": 12.4,
-    "instructorOverallSDAdjusted": 12.3
+    "instructorOverallSDAdjusted": 12.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4202,7 +4280,8 @@
     "instructorOverallMean": 84.7,
     "instructorOverallMeanAdjusted": 85.9,
     "instructorOverallSD": 15.2,
-    "instructorOverallSDAdjusted": 12.8
+    "instructorOverallSDAdjusted": 12.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4229,7 +4308,8 @@
     "instructorOverallMean": 84.7,
     "instructorOverallMeanAdjusted": 85.9,
     "instructorOverallSD": 15.2,
-    "instructorOverallSDAdjusted": 12.8
+    "instructorOverallSDAdjusted": 12.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4312,7 +4392,8 @@
     "instructorOverallMean": 76.7,
     "instructorOverallMeanAdjusted": 76.9,
     "instructorOverallSD": 14.8,
-    "instructorOverallSDAdjusted": 12.3
+    "instructorOverallSDAdjusted": 12.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4339,7 +4420,8 @@
     "instructorOverallMean": 76.7,
     "instructorOverallMeanAdjusted": 76.9,
     "instructorOverallSD": 14.8,
-    "instructorOverallSDAdjusted": 12.3
+    "instructorOverallSDAdjusted": 12.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4366,7 +4448,8 @@
     "instructorOverallMean": 85.7,
     "instructorOverallMeanAdjusted": 87.5,
     "instructorOverallSD": 18.9,
-    "instructorOverallSDAdjusted": 16.9
+    "instructorOverallSDAdjusted": 16.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4393,7 +4476,8 @@
     "instructorOverallMean": 85.7,
     "instructorOverallMeanAdjusted": 87.5,
     "instructorOverallSD": 18.9,
-    "instructorOverallSDAdjusted": 16.9
+    "instructorOverallSDAdjusted": 16.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4420,7 +4504,8 @@
     "instructorOverallMean": 81.6,
     "instructorOverallMeanAdjusted": 83.8,
     "instructorOverallSD": 20.1,
-    "instructorOverallSDAdjusted": 15.2
+    "instructorOverallSDAdjusted": 15.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4447,7 +4532,8 @@
     "instructorOverallMean": 81.6,
     "instructorOverallMeanAdjusted": 83.8,
     "instructorOverallSD": 20.1,
-    "instructorOverallSDAdjusted": 15.2
+    "instructorOverallSDAdjusted": 15.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4474,7 +4560,8 @@
     "instructorOverallMean": 85.5,
     "instructorOverallMeanAdjusted": 88.2,
     "instructorOverallSD": 22.5,
-    "instructorOverallSDAdjusted": 17.9
+    "instructorOverallSDAdjusted": 17.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4501,7 +4588,8 @@
     "instructorOverallMean": 85.5,
     "instructorOverallMeanAdjusted": 88.2,
     "instructorOverallSD": 22.5,
-    "instructorOverallSDAdjusted": 17.9
+    "instructorOverallSDAdjusted": 17.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4584,7 +4672,8 @@
     "instructorOverallMean": 80.9,
     "instructorOverallMeanAdjusted": 83.3,
     "instructorOverallSD": 25.8,
-    "instructorOverallSDAdjusted": 22.5
+    "instructorOverallSDAdjusted": 22.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4611,7 +4700,8 @@
     "instructorOverallMean": 80.9,
     "instructorOverallMeanAdjusted": 83.3,
     "instructorOverallSD": 25.8,
-    "instructorOverallSDAdjusted": 22.5
+    "instructorOverallSDAdjusted": 22.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4694,7 +4784,8 @@
     "instructorOverallMean": 80,
     "instructorOverallMeanAdjusted": 80.6,
     "instructorOverallSD": 19.2,
-    "instructorOverallSDAdjusted": 18.3
+    "instructorOverallSDAdjusted": 18.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4721,7 +4812,8 @@
     "instructorOverallMean": 80,
     "instructorOverallMeanAdjusted": 80.6,
     "instructorOverallSD": 19.2,
-    "instructorOverallSDAdjusted": 18.3
+    "instructorOverallSDAdjusted": 18.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4748,7 +4840,8 @@
     "instructorOverallMean": 85.9,
     "instructorOverallMeanAdjusted": 85.7,
     "instructorOverallSD": 12.8,
-    "instructorOverallSDAdjusted": 12.8
+    "instructorOverallSDAdjusted": 12.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4775,7 +4868,8 @@
     "instructorOverallMean": 85.9,
     "instructorOverallMeanAdjusted": 85.7,
     "instructorOverallSD": 12.8,
-    "instructorOverallSDAdjusted": 12.8
+    "instructorOverallSDAdjusted": 12.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4858,7 +4952,8 @@
     "instructorOverallMean": 64.3,
     "instructorOverallMeanAdjusted": 64.6,
     "instructorOverallSD": 18.9,
-    "instructorOverallSDAdjusted": 12.9
+    "instructorOverallSDAdjusted": 12.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4885,7 +4980,8 @@
     "instructorOverallMean": 64.3,
     "instructorOverallMeanAdjusted": 64.6,
     "instructorOverallSD": 18.9,
-    "instructorOverallSDAdjusted": 12.9
+    "instructorOverallSDAdjusted": 12.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4968,7 +5064,8 @@
     "instructorOverallMean": 92.2,
     "instructorOverallMeanAdjusted": 92.9,
     "instructorOverallSD": 12,
-    "instructorOverallSDAdjusted": 11.7
+    "instructorOverallSDAdjusted": 11.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -4995,7 +5092,8 @@
     "instructorOverallMean": 92.2,
     "instructorOverallMeanAdjusted": 92.9,
     "instructorOverallSD": 12,
-    "instructorOverallSDAdjusted": 11.7
+    "instructorOverallSDAdjusted": 11.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -5022,7 +5120,8 @@
     "instructorOverallMean": 77.9,
     "instructorOverallMeanAdjusted": 78.3,
     "instructorOverallSD": 17.4,
-    "instructorOverallSDAdjusted": 16
+    "instructorOverallSDAdjusted": 16,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -5049,7 +5148,8 @@
     "instructorOverallMean": 77.9,
     "instructorOverallMeanAdjusted": 78.3,
     "instructorOverallSD": 17.4,
-    "instructorOverallSDAdjusted": 16
+    "instructorOverallSDAdjusted": 16,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -5076,7 +5176,8 @@
     "instructorOverallMean": 93.8,
     "instructorOverallMeanAdjusted": 98.2,
     "instructorOverallSD": 19.4,
-    "instructorOverallSDAdjusted": 6.7
+    "instructorOverallSDAdjusted": 6.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -5103,7 +5204,8 @@
     "instructorOverallMean": 93.8,
     "instructorOverallMeanAdjusted": 98.2,
     "instructorOverallSD": 19.4,
-    "instructorOverallSDAdjusted": 6.7
+    "instructorOverallSDAdjusted": 6.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -5130,7 +5232,8 @@
     "instructorOverallMean": 88.8,
     "instructorOverallMeanAdjusted": 90.3,
     "instructorOverallSD": 15.1,
-    "instructorOverallSDAdjusted": 12.5
+    "instructorOverallSDAdjusted": 12.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -5157,7 +5260,8 @@
     "instructorOverallMean": 88.8,
     "instructorOverallMeanAdjusted": 90.3,
     "instructorOverallSD": 15.1,
-    "instructorOverallSDAdjusted": 12.5
+    "instructorOverallSDAdjusted": 12.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -5296,7 +5400,8 @@
     "instructorOverallMean": 83.8,
     "instructorOverallMeanAdjusted": 85,
     "instructorOverallSD": 15.2,
-    "instructorOverallSDAdjusted": 12.7
+    "instructorOverallSDAdjusted": 12.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -5323,7 +5428,8 @@
     "instructorOverallMean": 83.8,
     "instructorOverallMeanAdjusted": 85,
     "instructorOverallSD": 15.2,
-    "instructorOverallSDAdjusted": 12.7
+    "instructorOverallSDAdjusted": 12.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -5462,7 +5568,8 @@
     "instructorOverallMean": 83.3,
     "instructorOverallMeanAdjusted": 84.4,
     "instructorOverallSD": 17.1,
-    "instructorOverallSDAdjusted": 15.5
+    "instructorOverallSDAdjusted": 15.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -5489,7 +5596,8 @@
     "instructorOverallMean": 83.3,
     "instructorOverallMeanAdjusted": 84.4,
     "instructorOverallSD": 17.1,
-    "instructorOverallSDAdjusted": 15.5
+    "instructorOverallSDAdjusted": 15.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -5628,7 +5736,8 @@
     "instructorOverallMean": 87.5,
     "instructorOverallMeanAdjusted": 89.6,
     "instructorOverallSD": 19,
-    "instructorOverallSDAdjusted": 16.7
+    "instructorOverallSDAdjusted": 16.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -5655,7 +5764,8 @@
     "instructorOverallMean": 87.5,
     "instructorOverallMeanAdjusted": 89.6,
     "instructorOverallSD": 19,
-    "instructorOverallSDAdjusted": 16.7
+    "instructorOverallSDAdjusted": 16.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -5682,7 +5792,8 @@
     "instructorOverallMean": 81.7,
     "instructorOverallMeanAdjusted": 84.6,
     "instructorOverallSD": 22.1,
-    "instructorOverallSDAdjusted": 16.3
+    "instructorOverallSDAdjusted": 16.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -5709,7 +5820,8 @@
     "instructorOverallMean": 81.7,
     "instructorOverallMeanAdjusted": 84.6,
     "instructorOverallSD": 22.1,
-    "instructorOverallSDAdjusted": 16.3
+    "instructorOverallSDAdjusted": 16.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -5736,7 +5848,8 @@
     "instructorOverallMean": 93.8,
     "instructorOverallMeanAdjusted": 98.2,
     "instructorOverallSD": 19.4,
-    "instructorOverallSDAdjusted": 6.7
+    "instructorOverallSDAdjusted": 6.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -5763,7 +5876,8 @@
     "instructorOverallMean": 93.8,
     "instructorOverallMeanAdjusted": 98.2,
     "instructorOverallSD": 19.4,
-    "instructorOverallSDAdjusted": 6.7
+    "instructorOverallSDAdjusted": 6.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -5790,7 +5904,8 @@
     "instructorOverallMean": 83.9,
     "instructorOverallMeanAdjusted": 85.4,
     "instructorOverallSD": 15.8,
-    "instructorOverallSDAdjusted": 12.9
+    "instructorOverallSDAdjusted": 12.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -5817,7 +5932,8 @@
     "instructorOverallMean": 83.9,
     "instructorOverallMeanAdjusted": 85.4,
     "instructorOverallSD": 15.8,
-    "instructorOverallSDAdjusted": 12.9
+    "instructorOverallSDAdjusted": 12.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -5928,7 +6044,8 @@
     "instructorOverallMean": 84.7,
     "instructorOverallMeanAdjusted": 85.9,
     "instructorOverallSD": 17.4,
-    "instructorOverallSDAdjusted": 15.7
+    "instructorOverallSDAdjusted": 15.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -5955,7 +6072,8 @@
     "instructorOverallMean": 84.7,
     "instructorOverallMeanAdjusted": 85.9,
     "instructorOverallSD": 17.4,
-    "instructorOverallSDAdjusted": 15.7
+    "instructorOverallSDAdjusted": 15.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -6066,7 +6184,8 @@
     "instructorOverallMean": 85.7,
     "instructorOverallMeanAdjusted": 87.5,
     "instructorOverallSD": 16.2,
-    "instructorOverallSDAdjusted": 13.1
+    "instructorOverallSDAdjusted": 13.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -6093,7 +6212,8 @@
     "instructorOverallMean": 85.7,
     "instructorOverallMeanAdjusted": 87.5,
     "instructorOverallSD": 16.2,
-    "instructorOverallSDAdjusted": 13.1
+    "instructorOverallSDAdjusted": 13.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -6120,7 +6240,8 @@
     "instructorOverallMean": 81.7,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 19.4,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -6203,7 +6324,8 @@
     "instructorOverallMean": 77.9,
     "instructorOverallMeanAdjusted": 80,
     "instructorOverallSD": 24.8,
-    "instructorOverallSDAdjusted": 21.5
+    "instructorOverallSDAdjusted": 21.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -6230,7 +6352,8 @@
     "instructorOverallMean": 77.9,
     "instructorOverallMeanAdjusted": 80,
     "instructorOverallSD": 24.8,
-    "instructorOverallSDAdjusted": 21.5
+    "instructorOverallSDAdjusted": 21.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -6425,7 +6548,8 @@
     "instructorOverallMean": 68.1,
     "instructorOverallMeanAdjusted": 68.8,
     "instructorOverallSD": 25.4,
-    "instructorOverallSDAdjusted": 23.3
+    "instructorOverallSDAdjusted": 23.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -6452,7 +6576,8 @@
     "instructorOverallMean": 68.1,
     "instructorOverallMeanAdjusted": 68.8,
     "instructorOverallSD": 25.4,
-    "instructorOverallSDAdjusted": 23.3
+    "instructorOverallSDAdjusted": 23.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -6535,7 +6660,8 @@
     "instructorOverallMean": 86.8,
     "instructorOverallMeanAdjusted": 91.2,
     "instructorOverallSD": 25.5,
-    "instructorOverallSDAdjusted": 15.2
+    "instructorOverallSDAdjusted": 15.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -6562,7 +6688,8 @@
     "instructorOverallMean": 86.8,
     "instructorOverallMeanAdjusted": 91.2,
     "instructorOverallSD": 25.5,
-    "instructorOverallSDAdjusted": 15.2
+    "instructorOverallSDAdjusted": 15.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -6589,7 +6716,8 @@
     "instructorOverallMean": 81.7,
     "instructorOverallMeanAdjusted": 82.7,
     "instructorOverallSD": 17.6,
-    "instructorOverallSDAdjusted": 15.8
+    "instructorOverallSDAdjusted": 15.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -6616,7 +6744,8 @@
     "instructorOverallMean": 81.7,
     "instructorOverallMeanAdjusted": 82.7,
     "instructorOverallSD": 17.6,
-    "instructorOverallSDAdjusted": 15.8
+    "instructorOverallSDAdjusted": 15.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -6643,7 +6772,8 @@
     "instructorOverallMean": 75,
     "instructorOverallMeanAdjusted": 75,
     "instructorOverallSD": 15.8,
-    "instructorOverallSDAdjusted": 13.9
+    "instructorOverallSDAdjusted": 13.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -6670,7 +6800,8 @@
     "instructorOverallMean": 75,
     "instructorOverallMeanAdjusted": 75,
     "instructorOverallSD": 15.8,
-    "instructorOverallSDAdjusted": 13.9
+    "instructorOverallSDAdjusted": 13.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -6809,7 +6940,8 @@
     "instructorOverallMean": 78.1,
     "instructorOverallMeanAdjusted": 78.6,
     "instructorOverallSD": 22.1,
-    "instructorOverallSDAdjusted": 21.6
+    "instructorOverallSDAdjusted": 21.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -6836,7 +6968,8 @@
     "instructorOverallMean": 78.1,
     "instructorOverallMeanAdjusted": 78.6,
     "instructorOverallSD": 22.1,
-    "instructorOverallSDAdjusted": 21.6
+    "instructorOverallSDAdjusted": 21.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -6863,7 +6996,8 @@
     "instructorOverallMean": 82.1,
     "instructorOverallMeanAdjusted": 83.3,
     "instructorOverallSD": 15.3,
-    "instructorOverallSDAdjusted": 12.3
+    "instructorOverallSDAdjusted": 12.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -6890,7 +7024,8 @@
     "instructorOverallMean": 82.1,
     "instructorOverallMeanAdjusted": 83.3,
     "instructorOverallSD": 15.3,
-    "instructorOverallSDAdjusted": 12.3
+    "instructorOverallSDAdjusted": 12.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -6917,7 +7052,8 @@
     "instructorOverallMean": 88.9,
     "instructorOverallMeanAdjusted": 90.6,
     "instructorOverallSD": 15.4,
-    "instructorOverallSDAdjusted": 12.5
+    "instructorOverallSDAdjusted": 12.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -6944,7 +7080,8 @@
     "instructorOverallMean": 88.9,
     "instructorOverallMeanAdjusted": 90.6,
     "instructorOverallSD": 15.4,
-    "instructorOverallSDAdjusted": 12.5
+    "instructorOverallSDAdjusted": 12.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -6971,7 +7108,8 @@
     "instructorOverallMean": 86.8,
     "instructorOverallMeanAdjusted": 88.2,
     "instructorOverallSD": 15.3,
-    "instructorOverallSDAdjusted": 12.9
+    "instructorOverallSDAdjusted": 12.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -6998,7 +7136,8 @@
     "instructorOverallMean": 86.8,
     "instructorOverallMeanAdjusted": 88.2,
     "instructorOverallSD": 15.3,
-    "instructorOverallSDAdjusted": 12.9
+    "instructorOverallSDAdjusted": 12.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -7025,7 +7164,8 @@
     "instructorOverallMean": 87.5,
     "instructorOverallMeanAdjusted": 89.1,
     "instructorOverallSD": 15.5,
-    "instructorOverallSDAdjusted": 12.8
+    "instructorOverallSDAdjusted": 12.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -7052,7 +7192,8 @@
     "instructorOverallMean": 87.5,
     "instructorOverallMeanAdjusted": 89.1,
     "instructorOverallSD": 15.5,
-    "instructorOverallSDAdjusted": 12.8
+    "instructorOverallSDAdjusted": 12.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -7163,7 +7304,8 @@
     "instructorOverallMean": 82.7,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 20.3,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -7358,7 +7500,8 @@
     "instructorOverallMean": 86.1,
     "instructorOverallMeanAdjusted": 85.9,
     "instructorOverallSD": 12.8,
-    "instructorOverallSDAdjusted": 12.8
+    "instructorOverallSDAdjusted": 12.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -7385,7 +7528,8 @@
     "instructorOverallMean": 86.1,
     "instructorOverallMeanAdjusted": 85.9,
     "instructorOverallSD": 12.8,
-    "instructorOverallSDAdjusted": 12.8
+    "instructorOverallSDAdjusted": 12.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -7412,7 +7556,8 @@
     "instructorOverallMean": 78.1,
     "instructorOverallMeanAdjusted": 82.1,
     "instructorOverallSD": 25.6,
-    "instructorOverallSDAdjusted": 15.3
+    "instructorOverallSDAdjusted": 15.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -7439,7 +7584,8 @@
     "instructorOverallMean": 78.1,
     "instructorOverallMeanAdjusted": 82.1,
     "instructorOverallSD": 25.6,
-    "instructorOverallSDAdjusted": 15.3
+    "instructorOverallSDAdjusted": 15.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -7690,7 +7836,8 @@
     "instructorOverallMean": 68.1,
     "instructorOverallMeanAdjusted": 70.3,
     "instructorOverallSD": 22.4,
-    "instructorOverallSDAdjusted": 13.6
+    "instructorOverallSDAdjusted": 13.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -7717,7 +7864,8 @@
     "instructorOverallMean": 68.1,
     "instructorOverallMeanAdjusted": 70.3,
     "instructorOverallSD": 22.4,
-    "instructorOverallSDAdjusted": 13.6
+    "instructorOverallSDAdjusted": 13.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -7744,7 +7892,8 @@
     "instructorOverallMean": 80,
     "instructorOverallMeanAdjusted": 82.7,
     "instructorOverallSD": 23.5,
-    "instructorOverallSDAdjusted": 18.8
+    "instructorOverallSDAdjusted": 18.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -7771,7 +7920,8 @@
     "instructorOverallMean": 80,
     "instructorOverallMeanAdjusted": 82.7,
     "instructorOverallSD": 23.5,
-    "instructorOverallSDAdjusted": 18.8
+    "instructorOverallSDAdjusted": 18.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -7798,7 +7948,8 @@
     "instructorOverallMean": 92.9,
     "instructorOverallMeanAdjusted": 93.8,
     "instructorOverallSD": 11.7,
-    "instructorOverallSDAdjusted": 11.3
+    "instructorOverallSDAdjusted": 11.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -7825,7 +7976,8 @@
     "instructorOverallMean": 92.9,
     "instructorOverallMeanAdjusted": 93.8,
     "instructorOverallSD": 11.7,
-    "instructorOverallSDAdjusted": 11.3
+    "instructorOverallSDAdjusted": 11.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -7908,7 +8060,8 @@
     "instructorOverallMean": 83.3,
     "instructorOverallMeanAdjusted": 82.7,
     "instructorOverallSD": 12.2,
-    "instructorOverallSDAdjusted": 12
+    "instructorOverallSDAdjusted": 12,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -7935,7 +8088,8 @@
     "instructorOverallMean": 83.3,
     "instructorOverallMeanAdjusted": 82.7,
     "instructorOverallSD": 12.2,
-    "instructorOverallSDAdjusted": 12
+    "instructorOverallSDAdjusted": 12,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -7962,7 +8116,8 @@
     "instructorOverallMean": 85.3,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 15.4,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8045,7 +8200,8 @@
     "instructorOverallMean": 91.1,
     "instructorOverallMeanAdjusted": 91.7,
     "instructorOverallSD": 12.4,
-    "instructorOverallSDAdjusted": 12.3
+    "instructorOverallSDAdjusted": 12.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8072,7 +8228,8 @@
     "instructorOverallMean": 91.1,
     "instructorOverallMeanAdjusted": 91.7,
     "instructorOverallSD": 12.4,
-    "instructorOverallSDAdjusted": 12.3
+    "instructorOverallSDAdjusted": 12.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8099,7 +8256,8 @@
     "instructorOverallMean": 83.3,
     "instructorOverallMeanAdjusted": 84.6,
     "instructorOverallSD": 15.4,
-    "instructorOverallSDAdjusted": 12.7
+    "instructorOverallSDAdjusted": 12.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8126,7 +8284,8 @@
     "instructorOverallMean": 83.3,
     "instructorOverallMeanAdjusted": 84.6,
     "instructorOverallSD": 15.4,
-    "instructorOverallSDAdjusted": 12.7
+    "instructorOverallSDAdjusted": 12.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8153,7 +8312,8 @@
     "instructorOverallMean": 83.9,
     "instructorOverallMeanAdjusted": 85.4,
     "instructorOverallSD": 15.8,
-    "instructorOverallSDAdjusted": 12.9
+    "instructorOverallSDAdjusted": 12.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8180,7 +8340,8 @@
     "instructorOverallMean": 83.9,
     "instructorOverallMeanAdjusted": 85.4,
     "instructorOverallSD": 15.8,
-    "instructorOverallSDAdjusted": 12.9
+    "instructorOverallSDAdjusted": 12.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8207,7 +8368,8 @@
     "instructorOverallMean": 83.3,
     "instructorOverallMeanAdjusted": 82.8,
     "instructorOverallSD": 12.1,
-    "instructorOverallSDAdjusted": 12
+    "instructorOverallSDAdjusted": 12,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8234,7 +8396,8 @@
     "instructorOverallMean": 83.3,
     "instructorOverallMeanAdjusted": 82.8,
     "instructorOverallSD": 12.1,
-    "instructorOverallSDAdjusted": 12
+    "instructorOverallSDAdjusted": 12,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8261,7 +8424,8 @@
     "instructorOverallMean": 82.4,
     "instructorOverallMeanAdjusted": 83.3,
     "instructorOverallSD": 14.7,
-    "instructorOverallSDAdjusted": 12.2
+    "instructorOverallSDAdjusted": 12.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8288,7 +8452,8 @@
     "instructorOverallMean": 82.4,
     "instructorOverallMeanAdjusted": 83.3,
     "instructorOverallSD": 14.7,
-    "instructorOverallSDAdjusted": 12.2
+    "instructorOverallSDAdjusted": 12.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8371,7 +8536,8 @@
     "instructorOverallMean": 91.2,
     "instructorOverallMeanAdjusted": 93.3,
     "instructorOverallSD": 15.2,
-    "instructorOverallSDAdjusted": 11.4
+    "instructorOverallSDAdjusted": 11.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8398,7 +8564,8 @@
     "instructorOverallMean": 91.2,
     "instructorOverallMeanAdjusted": 93.3,
     "instructorOverallSD": 15.2,
-    "instructorOverallSDAdjusted": 11.4
+    "instructorOverallSDAdjusted": 11.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8425,7 +8592,8 @@
     "instructorOverallMean": 85.9,
     "instructorOverallMeanAdjusted": 87.5,
     "instructorOverallSD": 15.7,
-    "instructorOverallSDAdjusted": 13
+    "instructorOverallSDAdjusted": 13,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8452,7 +8620,8 @@
     "instructorOverallMean": 85.9,
     "instructorOverallMeanAdjusted": 87.5,
     "instructorOverallSD": 15.7,
-    "instructorOverallSDAdjusted": 13
+    "instructorOverallSDAdjusted": 13,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8479,7 +8648,8 @@
     "instructorOverallMean": 80.9,
     "instructorOverallMeanAdjusted": 81.7,
     "instructorOverallSD": 16.6,
-    "instructorOverallSDAdjusted": 14.8
+    "instructorOverallSDAdjusted": 14.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8506,7 +8676,8 @@
     "instructorOverallMean": 80.9,
     "instructorOverallMeanAdjusted": 81.7,
     "instructorOverallSD": 16.6,
-    "instructorOverallSDAdjusted": 14.8
+    "instructorOverallSDAdjusted": 14.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8533,7 +8704,8 @@
     "instructorOverallMean": 91.1,
     "instructorOverallMeanAdjusted": 93.8,
     "instructorOverallSD": 15.8,
-    "instructorOverallSDAdjusted": 11.3
+    "instructorOverallSDAdjusted": 11.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8560,7 +8732,8 @@
     "instructorOverallMean": 91.1,
     "instructorOverallMeanAdjusted": 93.8,
     "instructorOverallSD": 15.8,
-    "instructorOverallSDAdjusted": 11.3
+    "instructorOverallSDAdjusted": 11.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8587,7 +8760,8 @@
     "instructorOverallMean": 84.7,
     "instructorOverallMeanAdjusted": 85.9,
     "instructorOverallSD": 17.4,
-    "instructorOverallSDAdjusted": 15.7
+    "instructorOverallSDAdjusted": 15.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8614,7 +8788,8 @@
     "instructorOverallMean": 84.7,
     "instructorOverallMeanAdjusted": 85.9,
     "instructorOverallSD": 17.4,
-    "instructorOverallSDAdjusted": 15.7
+    "instructorOverallSDAdjusted": 15.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8641,7 +8816,8 @@
     "instructorOverallMean": 88.3,
     "instructorOverallMeanAdjusted": 91.3,
     "instructorOverallSD": 21.5,
-    "instructorOverallSDAdjusted": 14
+    "instructorOverallSDAdjusted": 14,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8668,7 +8844,8 @@
     "instructorOverallMean": 95,
     "instructorOverallMeanAdjusted": 96.2,
     "instructorOverallSD": 10.4,
-    "instructorOverallSDAdjusted": 9.4
+    "instructorOverallSDAdjusted": 9.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8695,7 +8872,8 @@
     "instructorOverallMean": 95,
     "instructorOverallMeanAdjusted": 96.2,
     "instructorOverallSD": 10.4,
-    "instructorOverallSDAdjusted": 9.4
+    "instructorOverallSDAdjusted": 9.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8722,7 +8900,8 @@
     "instructorOverallMean": 81.7,
     "instructorOverallMeanAdjusted": 86.5,
     "instructorOverallSD": 27.5,
-    "instructorOverallSDAdjusted": 16.5
+    "instructorOverallSDAdjusted": 16.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8749,7 +8928,8 @@
     "instructorOverallMean": 81.7,
     "instructorOverallMeanAdjusted": 86.5,
     "instructorOverallSD": 27.5,
-    "instructorOverallSDAdjusted": 16.5
+    "instructorOverallSDAdjusted": 16.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8776,7 +8956,8 @@
     "instructorOverallMean": 94.8,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 12,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8859,7 +9040,8 @@
     "instructorOverallMean": 98.4,
     "instructorOverallMeanAdjusted": 100,
     "instructorOverallSD": 6.3,
-    "instructorOverallSDAdjusted": 0
+    "instructorOverallSDAdjusted": 0,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8886,7 +9068,8 @@
     "instructorOverallMean": 98.4,
     "instructorOverallMeanAdjusted": 100,
     "instructorOverallSD": 6.3,
-    "instructorOverallSDAdjusted": 0
+    "instructorOverallSDAdjusted": 0,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8969,7 +9152,8 @@
     "instructorOverallMean": 93.4,
     "instructorOverallMeanAdjusted": 95.6,
     "instructorOverallSD": 14,
-    "instructorOverallSDAdjusted": 9.8
+    "instructorOverallSDAdjusted": 9.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -8996,7 +9180,8 @@
     "instructorOverallMean": 93.4,
     "instructorOverallMeanAdjusted": 95.6,
     "instructorOverallSD": 14,
-    "instructorOverallSDAdjusted": 9.8
+    "instructorOverallSDAdjusted": 9.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -9023,7 +9208,8 @@
     "instructorOverallMean": 92.9,
     "instructorOverallMeanAdjusted": 95.8,
     "instructorOverallSD": 15.3,
-    "instructorOverallSDAdjusted": 9.7
+    "instructorOverallSDAdjusted": 9.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -9050,7 +9236,8 @@
     "instructorOverallMean": 92.9,
     "instructorOverallMeanAdjusted": 95.8,
     "instructorOverallSD": 15.3,
-    "instructorOverallSDAdjusted": 9.7
+    "instructorOverallSDAdjusted": 9.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -9189,7 +9376,8 @@
     "instructorOverallMean": 93.3,
     "instructorOverallMeanAdjusted": 94.2,
     "instructorOverallSD": 11.2,
-    "instructorOverallSDAdjusted": 10.7
+    "instructorOverallSDAdjusted": 10.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -9216,7 +9404,8 @@
     "instructorOverallMean": 93.1,
     "instructorOverallMeanAdjusted": 93.8,
     "instructorOverallSD": 11.5,
-    "instructorOverallSDAdjusted": 11.2
+    "instructorOverallSDAdjusted": 11.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -9243,7 +9432,8 @@
     "instructorOverallMean": 93.1,
     "instructorOverallMeanAdjusted": 93.8,
     "instructorOverallSD": 11.5,
-    "instructorOverallSDAdjusted": 11.2
+    "instructorOverallSDAdjusted": 11.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -9578,7 +9768,8 @@
     "instructorOverallMean": 90.6,
     "instructorOverallMeanAdjusted": 95.8,
     "instructorOverallSD": 18.6,
-    "instructorOverallSDAdjusted": 10.2
+    "instructorOverallSDAdjusted": 10.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -9605,7 +9796,8 @@
     "instructorOverallMean": 90.6,
     "instructorOverallMeanAdjusted": 95.8,
     "instructorOverallSD": 18.6,
-    "instructorOverallSDAdjusted": 10.2
+    "instructorOverallSDAdjusted": 10.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -9632,7 +9824,8 @@
     "instructorOverallMean": 90.6,
     "instructorOverallMeanAdjusted": 95.8,
     "instructorOverallSD": 18.6,
-    "instructorOverallSDAdjusted": 10.2
+    "instructorOverallSDAdjusted": 10.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -9827,7 +10020,8 @@
     "instructorOverallMean": 96.1,
     "instructorOverallMeanAdjusted": 97.3,
     "instructorOverallSD": 11.2,
-    "instructorOverallSDAdjusted": 7.9
+    "instructorOverallSDAdjusted": 7.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -9854,7 +10048,8 @@
     "instructorOverallMean": 100,
     "instructorOverallMeanAdjusted": 100,
     "instructorOverallSD": 0,
-    "instructorOverallSDAdjusted": 0
+    "instructorOverallSDAdjusted": 0,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -9881,7 +10076,8 @@
     "instructorOverallMean": 100,
     "instructorOverallMeanAdjusted": 100,
     "instructorOverallSD": 0,
-    "instructorOverallSDAdjusted": 0
+    "instructorOverallSDAdjusted": 0,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -9908,7 +10104,8 @@
     "instructorOverallMean": 92.6,
     "instructorOverallMeanAdjusted": 95,
     "instructorOverallSD": 14.7,
-    "instructorOverallSDAdjusted": 10.4
+    "instructorOverallSDAdjusted": 10.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -9935,7 +10132,8 @@
     "instructorOverallMean": 92.6,
     "instructorOverallMeanAdjusted": 95,
     "instructorOverallSD": 14.7,
-    "instructorOverallSDAdjusted": 10.4
+    "instructorOverallSDAdjusted": 10.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -10326,7 +10524,8 @@
     "instructorOverallMean": 96.4,
     "instructorOverallMeanAdjusted": 97.9,
     "instructorOverallSD": 9.1,
-    "instructorOverallSDAdjusted": 7.2
+    "instructorOverallSDAdjusted": 7.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -10353,7 +10552,8 @@
     "instructorOverallMean": 96.4,
     "instructorOverallMeanAdjusted": 97.9,
     "instructorOverallSD": 9.1,
-    "instructorOverallSDAdjusted": 7.2
+    "instructorOverallSDAdjusted": 7.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -10380,7 +10580,8 @@
     "instructorOverallMean": 96.4,
     "instructorOverallMeanAdjusted": 97.9,
     "instructorOverallSD": 9.1,
-    "instructorOverallSDAdjusted": 7.2
+    "instructorOverallSDAdjusted": 7.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -10407,7 +10608,8 @@
     "instructorOverallMean": 75.3,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 22.7,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -10434,7 +10636,8 @@
     "instructorOverallMean": 88.2,
     "instructorOverallMeanAdjusted": 88.3,
     "instructorOverallSD": 12.9,
-    "instructorOverallSDAdjusted": 12.9
+    "instructorOverallSDAdjusted": 12.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -10461,7 +10664,8 @@
     "instructorOverallMean": 88.2,
     "instructorOverallMeanAdjusted": 88.3,
     "instructorOverallSD": 12.9,
-    "instructorOverallSDAdjusted": 12.9
+    "instructorOverallSDAdjusted": 12.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -10544,7 +10748,8 @@
     "instructorOverallMean": 54.7,
     "instructorOverallMeanAdjusted": 55.4,
     "instructorOverallSD": 26.2,
-    "instructorOverallSDAdjusted": 20
+    "instructorOverallSDAdjusted": 20,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -10571,7 +10776,8 @@
     "instructorOverallMean": 54.7,
     "instructorOverallMeanAdjusted": 55.4,
     "instructorOverallSD": 26.2,
-    "instructorOverallSDAdjusted": 20
+    "instructorOverallSDAdjusted": 20,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -10598,7 +10804,8 @@
     "instructorOverallMean": 83.3,
     "instructorOverallMeanAdjusted": 85.9,
     "instructorOverallSD": 21,
-    "instructorOverallSDAdjusted": 15.7
+    "instructorOverallSDAdjusted": 15.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -10625,7 +10832,8 @@
     "instructorOverallMean": 83.3,
     "instructorOverallMeanAdjusted": 85.9,
     "instructorOverallSD": 21,
-    "instructorOverallSDAdjusted": 15.7
+    "instructorOverallSDAdjusted": 15.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -10652,7 +10860,8 @@
     "instructorOverallMean": 79.4,
     "instructorOverallMeanAdjusted": 80,
     "instructorOverallSD": 13.2,
-    "instructorOverallSDAdjusted": 10.4
+    "instructorOverallSDAdjusted": 10.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -10679,7 +10888,8 @@
     "instructorOverallMean": 79.4,
     "instructorOverallMeanAdjusted": 80,
     "instructorOverallSD": 13.2,
-    "instructorOverallSDAdjusted": 10.4
+    "instructorOverallSDAdjusted": 10.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -10706,7 +10916,8 @@
     "instructorOverallMean": 70.8,
     "instructorOverallMeanAdjusted": 71.9,
     "instructorOverallSD": 24.6,
-    "instructorOverallSDAdjusted": 22.1
+    "instructorOverallSDAdjusted": 22.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -10733,7 +10944,8 @@
     "instructorOverallMean": 70.8,
     "instructorOverallMeanAdjusted": 71.9,
     "instructorOverallSD": 24.6,
-    "instructorOverallSDAdjusted": 22.1
+    "instructorOverallSDAdjusted": 22.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -10760,7 +10972,8 @@
     "instructorOverallMean": 90.3,
     "instructorOverallMeanAdjusted": 92.2,
     "instructorOverallSD": 17.4,
-    "instructorOverallSDAdjusted": 15.1
+    "instructorOverallSDAdjusted": 15.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -10787,7 +11000,8 @@
     "instructorOverallMean": 90.3,
     "instructorOverallMeanAdjusted": 92.2,
     "instructorOverallSD": 17.4,
-    "instructorOverallSDAdjusted": 15.1
+    "instructorOverallSDAdjusted": 15.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -10814,7 +11028,8 @@
     "instructorOverallMean": 90.3,
     "instructorOverallMeanAdjusted": 92.2,
     "instructorOverallSD": 17.4,
-    "instructorOverallSDAdjusted": 15.1
+    "instructorOverallSDAdjusted": 15.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -10841,7 +11056,8 @@
     "instructorOverallMean": 85.3,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 19.4,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -10868,7 +11084,8 @@
     "instructorOverallMean": 76.8,
     "instructorOverallMeanAdjusted": 81.3,
     "instructorOverallSD": 30.2,
-    "instructorOverallSDAdjusted": 21.7
+    "instructorOverallSDAdjusted": 21.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -10895,7 +11112,8 @@
     "instructorOverallMean": 76.8,
     "instructorOverallMeanAdjusted": 81.3,
     "instructorOverallSD": 30.2,
-    "instructorOverallSDAdjusted": 21.7
+    "instructorOverallSDAdjusted": 21.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11034,7 +11252,8 @@
     "instructorOverallMean": 85.3,
     "instructorOverallMeanAdjusted": 86.7,
     "instructorOverallSD": 15.5,
-    "instructorOverallSDAdjusted": 12.9
+    "instructorOverallSDAdjusted": 12.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11061,7 +11280,8 @@
     "instructorOverallMean": 85.3,
     "instructorOverallMeanAdjusted": 86.7,
     "instructorOverallSD": 15.5,
-    "instructorOverallSDAdjusted": 12.9
+    "instructorOverallSDAdjusted": 12.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11088,7 +11308,8 @@
     "instructorOverallMean": 86.5,
     "instructorOverallMeanAdjusted": 90.9,
     "instructorOverallSD": 24.2,
-    "instructorOverallSDAdjusted": 16.9
+    "instructorOverallSDAdjusted": 16.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11115,7 +11336,8 @@
     "instructorOverallMean": 86.5,
     "instructorOverallMeanAdjusted": 90.9,
     "instructorOverallSD": 24.2,
-    "instructorOverallSDAdjusted": 16.9
+    "instructorOverallSDAdjusted": 16.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11142,7 +11364,8 @@
     "instructorOverallMean": 69.2,
     "instructorOverallMeanAdjusted": 72.7,
     "instructorOverallSD": 27.3,
-    "instructorOverallSDAdjusted": 17.5
+    "instructorOverallSDAdjusted": 17.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11169,7 +11392,8 @@
     "instructorOverallMean": 69.2,
     "instructorOverallMeanAdjusted": 72.7,
     "instructorOverallSD": 27.3,
-    "instructorOverallSDAdjusted": 17.5
+    "instructorOverallSDAdjusted": 17.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11196,7 +11420,8 @@
     "instructorOverallMean": 77.1,
     "instructorOverallMeanAdjusted": 77.5,
     "instructorOverallSD": 22.5,
-    "instructorOverallSDAdjusted": 21.9
+    "instructorOverallSDAdjusted": 21.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11223,7 +11448,8 @@
     "instructorOverallMean": 77.1,
     "instructorOverallMeanAdjusted": 77.5,
     "instructorOverallSD": 22.5,
-    "instructorOverallSDAdjusted": 21.9
+    "instructorOverallSDAdjusted": 21.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11250,7 +11476,8 @@
     "instructorOverallMean": 84.4,
     "instructorOverallMeanAdjusted": 85.7,
     "instructorOverallSD": 15.5,
-    "instructorOverallSDAdjusted": 12.8
+    "instructorOverallSDAdjusted": 12.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11277,7 +11504,8 @@
     "instructorOverallMean": 84.4,
     "instructorOverallMeanAdjusted": 85.7,
     "instructorOverallSD": 15.5,
-    "instructorOverallSDAdjusted": 12.8
+    "instructorOverallSDAdjusted": 12.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11304,7 +11532,8 @@
     "instructorOverallMean": 95.3,
     "instructorOverallMeanAdjusted": 96.4,
     "instructorOverallSD": 10.1,
-    "instructorOverallSDAdjusted": 9.1
+    "instructorOverallSDAdjusted": 9.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11331,7 +11560,8 @@
     "instructorOverallMean": 95.3,
     "instructorOverallMeanAdjusted": 96.4,
     "instructorOverallSD": 10.1,
-    "instructorOverallSDAdjusted": 9.1
+    "instructorOverallSDAdjusted": 9.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11414,7 +11644,8 @@
     "instructorOverallMean": 91.1,
     "instructorOverallMeanAdjusted": 93.8,
     "instructorOverallSD": 15.8,
-    "instructorOverallSDAdjusted": 11.3
+    "instructorOverallSDAdjusted": 11.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11441,7 +11672,8 @@
     "instructorOverallMean": 91.1,
     "instructorOverallMeanAdjusted": 93.8,
     "instructorOverallSD": 15.8,
-    "instructorOverallSDAdjusted": 11.3
+    "instructorOverallSDAdjusted": 11.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11468,7 +11700,8 @@
     "instructorOverallMean": 89.3,
     "instructorOverallMeanAdjusted": 89.6,
     "instructorOverallSD": 12.8,
-    "instructorOverallSDAdjusted": 12.9
+    "instructorOverallSDAdjusted": 12.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11495,7 +11728,8 @@
     "instructorOverallMean": 89.3,
     "instructorOverallMeanAdjusted": 89.6,
     "instructorOverallSD": 12.8,
-    "instructorOverallSDAdjusted": 12.9
+    "instructorOverallSDAdjusted": 12.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11578,7 +11812,8 @@
     "instructorOverallMean": 87.5,
     "instructorOverallMeanAdjusted": 89.3,
     "instructorOverallSD": 18.3,
-    "instructorOverallSDAdjusted": 16.2
+    "instructorOverallSDAdjusted": 16.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11605,7 +11840,8 @@
     "instructorOverallMean": 87.5,
     "instructorOverallMeanAdjusted": 89.3,
     "instructorOverallSD": 18.3,
-    "instructorOverallSDAdjusted": 16.2
+    "instructorOverallSDAdjusted": 16.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11688,7 +11924,8 @@
     "instructorOverallMean": 88.5,
     "instructorOverallMeanAdjusted": 90.9,
     "instructorOverallSD": 16.5,
-    "instructorOverallSDAdjusted": 12.6
+    "instructorOverallSDAdjusted": 12.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11715,7 +11952,8 @@
     "instructorOverallMean": 88.5,
     "instructorOverallMeanAdjusted": 90.9,
     "instructorOverallSD": 16.5,
-    "instructorOverallSDAdjusted": 12.6
+    "instructorOverallSDAdjusted": 12.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11742,7 +11980,8 @@
     "instructorOverallMean": 95.5,
     "instructorOverallMeanAdjusted": 97.2,
     "instructorOverallSD": 10.1,
-    "instructorOverallSDAdjusted": 8.3
+    "instructorOverallSDAdjusted": 8.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11769,7 +12008,8 @@
     "instructorOverallMean": 95.5,
     "instructorOverallMeanAdjusted": 97.2,
     "instructorOverallSD": 10.1,
-    "instructorOverallSDAdjusted": 8.3
+    "instructorOverallSDAdjusted": 8.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11796,7 +12036,8 @@
     "instructorOverallMean": 82.8,
     "instructorOverallMeanAdjusted": 82.1,
     "instructorOverallSD": 12,
-    "instructorOverallSDAdjusted": 11.7
+    "instructorOverallSDAdjusted": 11.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11823,7 +12064,8 @@
     "instructorOverallMean": 82.8,
     "instructorOverallMeanAdjusted": 82.1,
     "instructorOverallSD": 12,
-    "instructorOverallSDAdjusted": 11.7
+    "instructorOverallSDAdjusted": 11.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11850,7 +12092,8 @@
     "instructorOverallMean": 75,
     "instructorOverallMeanAdjusted": 77.5,
     "instructorOverallSD": 18.5,
-    "instructorOverallSDAdjusted": 7.9
+    "instructorOverallSDAdjusted": 7.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11877,7 +12120,8 @@
     "instructorOverallMean": 75,
     "instructorOverallMeanAdjusted": 77.5,
     "instructorOverallSD": 18.5,
-    "instructorOverallSDAdjusted": 7.9
+    "instructorOverallSDAdjusted": 7.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11904,7 +12148,8 @@
     "instructorOverallMean": 90.3,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 18.1,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -11987,7 +12232,8 @@
     "instructorOverallMean": 80.8,
     "instructorOverallMeanAdjusted": 86.4,
     "instructorOverallSD": 27.3,
-    "instructorOverallSDAdjusted": 13.1
+    "instructorOverallSDAdjusted": 13.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -12014,7 +12260,8 @@
     "instructorOverallMean": 80.8,
     "instructorOverallMeanAdjusted": 86.4,
     "instructorOverallSD": 27.3,
-    "instructorOverallSDAdjusted": 13.1
+    "instructorOverallSDAdjusted": 13.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -12153,7 +12400,8 @@
     "instructorOverallMean": 78.7,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 19.8,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -12348,7 +12596,8 @@
     "instructorOverallMean": 80.9,
     "instructorOverallMeanAdjusted": 83.3,
     "instructorOverallSD": 18.8,
-    "instructorOverallSDAdjusted": 12.2
+    "instructorOverallSDAdjusted": 12.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -12375,7 +12624,8 @@
     "instructorOverallMean": 80.9,
     "instructorOverallMeanAdjusted": 83.3,
     "instructorOverallSD": 18.8,
-    "instructorOverallSDAdjusted": 12.2
+    "instructorOverallSDAdjusted": 12.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -12402,7 +12652,8 @@
     "instructorOverallMean": 64.5,
     "instructorOverallMeanAdjusted": 68.3,
     "instructorOverallSD": 29.2,
-    "instructorOverallSDAdjusted": 17.6
+    "instructorOverallSDAdjusted": 17.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -12541,7 +12792,8 @@
     "instructorOverallMean": 92.9,
     "instructorOverallMeanAdjusted": 97.5,
     "instructorOverallSD": 15.3,
-    "instructorOverallSDAdjusted": 7.9
+    "instructorOverallSDAdjusted": 7.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -12680,7 +12932,8 @@
     "instructorOverallMean": 82.6,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 24.6,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -12763,7 +13016,8 @@
     "instructorOverallMean": 93.3,
     "instructorOverallMeanAdjusted": 96.2,
     "instructorOverallSD": 14.8,
-    "instructorOverallSDAdjusted": 9.4
+    "instructorOverallSDAdjusted": 9.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -12790,7 +13044,8 @@
     "instructorOverallMean": 93.3,
     "instructorOverallMeanAdjusted": 96.2,
     "instructorOverallSD": 14.8,
-    "instructorOverallSDAdjusted": 9.4
+    "instructorOverallSDAdjusted": 9.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -12873,7 +13128,8 @@
     "instructorOverallMean": 78.3,
     "instructorOverallMeanAdjusted": 82.7,
     "instructorOverallSD": 33.9,
-    "instructorOverallSDAdjusted": 27.7
+    "instructorOverallSDAdjusted": 27.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -12900,7 +13156,8 @@
     "instructorOverallMean": 78.3,
     "instructorOverallMeanAdjusted": 82.7,
     "instructorOverallSD": 33.9,
-    "instructorOverallSDAdjusted": 27.7
+    "instructorOverallSDAdjusted": 27.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -12983,7 +13240,8 @@
     "instructorOverallMean": 78.8,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 18.2,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -13010,7 +13268,8 @@
     "instructorOverallMean": 68.8,
     "instructorOverallMeanAdjusted": 62.5,
     "instructorOverallSD": 23.9,
-    "instructorOverallSDAdjusted": 17.7
+    "instructorOverallSDAdjusted": 17.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -13037,7 +13296,8 @@
     "instructorOverallMean": 68.8,
     "instructorOverallMeanAdjusted": 62.5,
     "instructorOverallSD": 23.9,
-    "instructorOverallSDAdjusted": 17.7
+    "instructorOverallSDAdjusted": 17.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -13176,7 +13436,8 @@
     "instructorOverallMean": 75,
     "instructorOverallMeanAdjusted": 75,
     "instructorOverallSD": 21.9,
-    "instructorOverallSDAdjusted": 21.3
+    "instructorOverallSDAdjusted": 21.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -13203,7 +13464,8 @@
     "instructorOverallMean": 75,
     "instructorOverallMeanAdjusted": 75,
     "instructorOverallSD": 21.9,
-    "instructorOverallSDAdjusted": 21.3
+    "instructorOverallSDAdjusted": 21.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -13370,7 +13632,8 @@
     "instructorOverallMean": 65,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 26.6,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -13453,7 +13716,8 @@
     "instructorOverallMean": 59.4,
     "instructorOverallMeanAdjusted": 60.7,
     "instructorOverallSD": 32.8,
-    "instructorOverallSDAdjusted": 28.9
+    "instructorOverallSDAdjusted": 28.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -13480,7 +13744,8 @@
     "instructorOverallMean": 59.4,
     "instructorOverallMeanAdjusted": 60.7,
     "instructorOverallSD": 32.8,
-    "instructorOverallSDAdjusted": 28.9
+    "instructorOverallSDAdjusted": 28.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -13563,7 +13828,8 @@
     "instructorOverallMean": 68.8,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 22.8,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -13590,7 +13856,8 @@
     "instructorOverallMean": 61.1,
     "instructorOverallMeanAdjusted": 60.7,
     "instructorOverallSD": 22,
-    "instructorOverallSDAdjusted": 13.4
+    "instructorOverallSDAdjusted": 13.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -13617,7 +13884,8 @@
     "instructorOverallMean": 61.1,
     "instructorOverallMeanAdjusted": 60.7,
     "instructorOverallSD": 22,
-    "instructorOverallSDAdjusted": 13.4
+    "instructorOverallSDAdjusted": 13.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -13700,7 +13968,8 @@
     "instructorOverallMean": 88.1,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 17,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -13727,7 +13996,8 @@
     "instructorOverallMean": 93.3,
     "instructorOverallMeanAdjusted": 94.2,
     "instructorOverallSD": 11.4,
-    "instructorOverallSDAdjusted": 11
+    "instructorOverallSDAdjusted": 11,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -13754,7 +14024,8 @@
     "instructorOverallMean": 93.3,
     "instructorOverallMeanAdjusted": 94.2,
     "instructorOverallSD": 11.4,
-    "instructorOverallSDAdjusted": 11
+    "instructorOverallSDAdjusted": 11,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -13977,7 +14248,8 @@
     "instructorOverallMean": 78.8,
     "instructorOverallMeanAdjusted": 79.5,
     "instructorOverallSD": 17.2,
-    "instructorOverallSDAdjusted": 15.1
+    "instructorOverallSDAdjusted": 15.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -14004,7 +14276,8 @@
     "instructorOverallMean": 78.8,
     "instructorOverallMeanAdjusted": 79.5,
     "instructorOverallSD": 17.2,
-    "instructorOverallSDAdjusted": 15.1
+    "instructorOverallSDAdjusted": 15.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -14395,7 +14668,8 @@
     "instructorOverallMean": 91,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 14.6,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -14730,7 +15004,8 @@
     "instructorOverallMean": 80.4,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 19.5,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -14869,7 +15144,8 @@
     "instructorOverallMean": 81.3,
     "instructorOverallMeanAdjusted": 82.1,
     "instructorOverallSD": 19.4,
-    "instructorOverallSDAdjusted": 18.2
+    "instructorOverallSDAdjusted": 18.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -14896,7 +15172,8 @@
     "instructorOverallMean": 81.3,
     "instructorOverallMeanAdjusted": 82.1,
     "instructorOverallSD": 19.4,
-    "instructorOverallSDAdjusted": 18.2
+    "instructorOverallSDAdjusted": 18.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -14979,7 +15256,8 @@
     "instructorOverallMean": 81.4,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 20.8,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -15286,7 +15564,8 @@
     "instructorOverallMean": 63.3,
     "instructorOverallMeanAdjusted": 65.4,
     "instructorOverallSD": 33.9,
-    "instructorOverallSDAdjusted": 29.8
+    "instructorOverallSDAdjusted": 29.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -15313,7 +15592,8 @@
     "instructorOverallMean": 63.3,
     "instructorOverallMeanAdjusted": 65.4,
     "instructorOverallSD": 33.9,
-    "instructorOverallSDAdjusted": 29.8
+    "instructorOverallSDAdjusted": 29.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -15340,7 +15620,8 @@
     "instructorOverallMean": 89.1,
     "instructorOverallMeanAdjusted": 89.3,
     "instructorOverallSD": 12.8,
-    "instructorOverallSDAdjusted": 12.8
+    "instructorOverallSDAdjusted": 12.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -15367,7 +15648,8 @@
     "instructorOverallMean": 89.1,
     "instructorOverallMeanAdjusted": 89.3,
     "instructorOverallSD": 12.8,
-    "instructorOverallSDAdjusted": 12.8
+    "instructorOverallSDAdjusted": 12.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -15394,7 +15676,8 @@
     "instructorOverallMean": 83.9,
     "instructorOverallMeanAdjusted": 85.4,
     "instructorOverallSD": 15.8,
-    "instructorOverallSDAdjusted": 12.9
+    "instructorOverallSDAdjusted": 12.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -15421,7 +15704,8 @@
     "instructorOverallMean": 83.9,
     "instructorOverallMeanAdjusted": 85.4,
     "instructorOverallSD": 15.8,
-    "instructorOverallSDAdjusted": 12.9
+    "instructorOverallSDAdjusted": 12.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -15504,7 +15788,8 @@
     "instructorOverallMean": 79.4,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 23.8,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -15643,7 +15928,8 @@
     "instructorOverallMean": 91.9,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 14.5,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -15670,7 +15956,8 @@
     "instructorOverallMean": 92.2,
     "instructorOverallMeanAdjusted": 94.6,
     "instructorOverallSD": 15.1,
-    "instructorOverallSDAdjusted": 10.6
+    "instructorOverallSDAdjusted": 10.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -15697,7 +15984,8 @@
     "instructorOverallMean": 92.2,
     "instructorOverallMeanAdjusted": 94.6,
     "instructorOverallSD": 15.1,
-    "instructorOverallSDAdjusted": 10.6
+    "instructorOverallSDAdjusted": 10.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -15724,7 +16012,8 @@
     "instructorOverallMean": 92.9,
     "instructorOverallMeanAdjusted": 95.8,
     "instructorOverallSD": 15.3,
-    "instructorOverallSDAdjusted": 9.7
+    "instructorOverallSDAdjusted": 9.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -15751,7 +16040,8 @@
     "instructorOverallMean": 92.9,
     "instructorOverallMeanAdjusted": 95.8,
     "instructorOverallSD": 15.3,
-    "instructorOverallSDAdjusted": 9.7
+    "instructorOverallSDAdjusted": 9.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -15834,7 +16124,8 @@
     "instructorOverallMean": 94.8,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 11.9,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -15861,7 +16152,8 @@
     "instructorOverallMean": 98.3,
     "instructorOverallMeanAdjusted": 100,
     "instructorOverallSD": 6.5,
-    "instructorOverallSDAdjusted": 0
+    "instructorOverallSDAdjusted": 0,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -15888,7 +16180,8 @@
     "instructorOverallMean": 98.3,
     "instructorOverallMeanAdjusted": 100,
     "instructorOverallSD": 6.5,
-    "instructorOverallSDAdjusted": 0
+    "instructorOverallSDAdjusted": 0,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -15915,7 +16208,8 @@
     "instructorOverallMean": 94.1,
     "instructorOverallMeanAdjusted": 96.7,
     "instructorOverallSD": 14.1,
-    "instructorOverallSDAdjusted": 8.8
+    "instructorOverallSDAdjusted": 8.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -15942,7 +16236,8 @@
     "instructorOverallMean": 94.1,
     "instructorOverallMeanAdjusted": 96.7,
     "instructorOverallSD": 14.1,
-    "instructorOverallSDAdjusted": 8.8
+    "instructorOverallSDAdjusted": 8.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -15969,7 +16264,8 @@
     "instructorOverallMean": 94.1,
     "instructorOverallMeanAdjusted": 96.7,
     "instructorOverallSD": 14.1,
-    "instructorOverallSDAdjusted": 8.8
+    "instructorOverallSDAdjusted": 8.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -15996,7 +16292,8 @@
     "instructorOverallMean": 94.1,
     "instructorOverallMeanAdjusted": 96.7,
     "instructorOverallSD": 14.1,
-    "instructorOverallSDAdjusted": 8.8
+    "instructorOverallSDAdjusted": 8.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16023,7 +16320,8 @@
     "instructorOverallMean": 93.1,
     "instructorOverallMeanAdjusted": 93.8,
     "instructorOverallSD": 11.5,
-    "instructorOverallSDAdjusted": 11.2
+    "instructorOverallSDAdjusted": 11.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16050,7 +16348,8 @@
     "instructorOverallMean": 93.1,
     "instructorOverallMeanAdjusted": 93.8,
     "instructorOverallSD": 11.5,
-    "instructorOverallSDAdjusted": 11.2
+    "instructorOverallSDAdjusted": 11.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16077,7 +16376,8 @@
     "instructorOverallMean": 88.2,
     "instructorOverallMeanAdjusted": 88.3,
     "instructorOverallSD": 17.4,
-    "instructorOverallSDAdjusted": 16
+    "instructorOverallSDAdjusted": 16,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16104,7 +16404,8 @@
     "instructorOverallMean": 82.7,
     "instructorOverallMeanAdjusted": 84.1,
     "instructorOverallSD": 18.8,
-    "instructorOverallSDAdjusted": 16.9
+    "instructorOverallSDAdjusted": 16.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16131,7 +16432,8 @@
     "instructorOverallMean": 82.7,
     "instructorOverallMeanAdjusted": 84.1,
     "instructorOverallSD": 18.8,
-    "instructorOverallSDAdjusted": 16.9
+    "instructorOverallSDAdjusted": 16.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16214,7 +16516,8 @@
     "instructorOverallMean": 88.9,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 16.4,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16241,7 +16544,8 @@
     "instructorOverallMean": 88.2,
     "instructorOverallMeanAdjusted": 90,
     "instructorOverallSD": 15.6,
-    "instructorOverallSDAdjusted": 12.7
+    "instructorOverallSDAdjusted": 12.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16268,7 +16572,8 @@
     "instructorOverallMean": 88.2,
     "instructorOverallMeanAdjusted": 90,
     "instructorOverallSD": 15.6,
-    "instructorOverallSDAdjusted": 12.7
+    "instructorOverallSDAdjusted": 12.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16295,7 +16600,8 @@
     "instructorOverallMean": 91.7,
     "instructorOverallMeanAdjusted": 92.5,
     "instructorOverallSD": 12.3,
-    "instructorOverallSDAdjusted": 12.1
+    "instructorOverallSDAdjusted": 12.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16322,7 +16628,8 @@
     "instructorOverallMean": 91.7,
     "instructorOverallMeanAdjusted": 92.5,
     "instructorOverallSD": 12.3,
-    "instructorOverallSDAdjusted": 12.1
+    "instructorOverallSDAdjusted": 12.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16349,7 +16656,8 @@
     "instructorOverallMean": 85,
     "instructorOverallMeanAdjusted": 86.5,
     "instructorOverallSD": 18.4,
-    "instructorOverallSDAdjusted": 16.5
+    "instructorOverallSDAdjusted": 16.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16376,7 +16684,8 @@
     "instructorOverallMean": 85,
     "instructorOverallMeanAdjusted": 86.5,
     "instructorOverallSD": 18.4,
-    "instructorOverallSDAdjusted": 16.5
+    "instructorOverallSDAdjusted": 16.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16459,7 +16768,8 @@
     "instructorOverallMean": 91.1,
     "instructorOverallMeanAdjusted": 93.8,
     "instructorOverallSD": 15.8,
-    "instructorOverallSDAdjusted": 11.3
+    "instructorOverallSDAdjusted": 11.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16486,7 +16796,8 @@
     "instructorOverallMean": 91.1,
     "instructorOverallMeanAdjusted": 93.8,
     "instructorOverallSD": 15.8,
-    "instructorOverallSDAdjusted": 11.3
+    "instructorOverallSDAdjusted": 11.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16513,7 +16824,8 @@
     "instructorOverallMean": 95.5,
     "instructorOverallMeanAdjusted": 97.2,
     "instructorOverallSD": 10.1,
-    "instructorOverallSDAdjusted": 8.3
+    "instructorOverallSDAdjusted": 8.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16540,7 +16852,8 @@
     "instructorOverallMean": 95.5,
     "instructorOverallMeanAdjusted": 97.2,
     "instructorOverallSD": 10.1,
-    "instructorOverallSDAdjusted": 8.3
+    "instructorOverallSDAdjusted": 8.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16567,7 +16880,8 @@
     "instructorOverallMean": 82.8,
     "instructorOverallMeanAdjusted": 85.7,
     "instructorOverallSD": 23.7,
-    "instructorOverallSDAdjusted": 18.9
+    "instructorOverallSDAdjusted": 18.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16594,7 +16908,8 @@
     "instructorOverallMean": 82.8,
     "instructorOverallMeanAdjusted": 85.7,
     "instructorOverallSD": 23.7,
-    "instructorOverallSDAdjusted": 18.9
+    "instructorOverallSDAdjusted": 18.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16621,7 +16936,8 @@
     "instructorOverallMean": 93.8,
     "instructorOverallMeanAdjusted": 94.6,
     "instructorOverallSD": 11.2,
-    "instructorOverallSDAdjusted": 10.6
+    "instructorOverallSDAdjusted": 10.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16648,7 +16964,8 @@
     "instructorOverallMean": 93.8,
     "instructorOverallMeanAdjusted": 94.6,
     "instructorOverallSD": 11.2,
-    "instructorOverallSDAdjusted": 10.6
+    "instructorOverallSDAdjusted": 10.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16675,7 +16992,8 @@
     "instructorOverallMean": 79.4,
     "instructorOverallMeanAdjusted": 83.3,
     "instructorOverallSD": 28.3,
-    "instructorOverallSDAdjusted": 20.4
+    "instructorOverallSDAdjusted": 20.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16702,7 +17020,8 @@
     "instructorOverallMean": 79.4,
     "instructorOverallMeanAdjusted": 83.3,
     "instructorOverallSD": 28.3,
-    "instructorOverallSDAdjusted": 20.4
+    "instructorOverallSDAdjusted": 20.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16729,7 +17048,8 @@
     "instructorOverallMean": 79.4,
     "instructorOverallMeanAdjusted": 83.3,
     "instructorOverallSD": 28.3,
-    "instructorOverallSDAdjusted": 20.4
+    "instructorOverallSDAdjusted": 20.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16924,7 +17244,8 @@
     "instructorOverallMean": 82.7,
     "instructorOverallMeanAdjusted": 84.1,
     "instructorOverallSD": 18.8,
-    "instructorOverallSDAdjusted": 16.9
+    "instructorOverallSDAdjusted": 16.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16951,7 +17272,8 @@
     "instructorOverallMean": 82.7,
     "instructorOverallMeanAdjusted": 84.1,
     "instructorOverallSD": 18.8,
-    "instructorOverallSDAdjusted": 16.9
+    "instructorOverallSDAdjusted": 16.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -16978,7 +17300,8 @@
     "instructorOverallMean": 82.7,
     "instructorOverallMeanAdjusted": 84.1,
     "instructorOverallSD": 18.8,
-    "instructorOverallSDAdjusted": 16.9
+    "instructorOverallSDAdjusted": 16.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -17173,7 +17496,8 @@
     "instructorOverallMean": 93.1,
     "instructorOverallMeanAdjusted": 95.3,
     "instructorOverallSD": 16.7,
-    "instructorOverallSDAdjusted": 13.6
+    "instructorOverallSDAdjusted": 13.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -17200,7 +17524,8 @@
     "instructorOverallMean": 93.1,
     "instructorOverallMeanAdjusted": 95.3,
     "instructorOverallSD": 16.7,
-    "instructorOverallSDAdjusted": 13.6
+    "instructorOverallSDAdjusted": 13.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -17227,7 +17552,8 @@
     "instructorOverallMean": 93.1,
     "instructorOverallMeanAdjusted": 95.3,
     "instructorOverallSD": 16.7,
-    "instructorOverallSDAdjusted": 13.6
+    "instructorOverallSDAdjusted": 13.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -17674,7 +18000,8 @@
     "instructorOverallMean": 67.9,
     "instructorOverallMeanAdjusted": 68.8,
     "instructorOverallSD": 28.5,
-    "instructorOverallSDAdjusted": 26.4
+    "instructorOverallSDAdjusted": 26.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -17701,7 +18028,8 @@
     "instructorOverallMean": 67.9,
     "instructorOverallMeanAdjusted": 68.8,
     "instructorOverallSD": 28.5,
-    "instructorOverallSDAdjusted": 26.4
+    "instructorOverallSDAdjusted": 26.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -17728,7 +18056,8 @@
     "instructorOverallMean": 67.9,
     "instructorOverallMeanAdjusted": 68.8,
     "instructorOverallSD": 28.5,
-    "instructorOverallSDAdjusted": 26.4
+    "instructorOverallSDAdjusted": 26.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18007,7 +18336,8 @@
     "instructorOverallMean": 94.4,
     "instructorOverallMeanAdjusted": 95.3,
     "instructorOverallSD": 10.7,
-    "instructorOverallSDAdjusted": 10.1
+    "instructorOverallSDAdjusted": 10.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18034,7 +18364,8 @@
     "instructorOverallMean": 94.4,
     "instructorOverallMeanAdjusted": 95.3,
     "instructorOverallSD": 10.7,
-    "instructorOverallSDAdjusted": 10.1
+    "instructorOverallSDAdjusted": 10.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18061,7 +18392,8 @@
     "instructorOverallMean": 94.4,
     "instructorOverallMeanAdjusted": 95.3,
     "instructorOverallSD": 10.7,
-    "instructorOverallSDAdjusted": 10.1
+    "instructorOverallSDAdjusted": 10.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18172,7 +18504,8 @@
     "instructorOverallMean": 95.3,
     "instructorOverallMeanAdjusted": 96.4,
     "instructorOverallSD": 10.1,
-    "instructorOverallSDAdjusted": 9.1
+    "instructorOverallSDAdjusted": 9.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18199,7 +18532,8 @@
     "instructorOverallMean": 95.3,
     "instructorOverallMeanAdjusted": 96.4,
     "instructorOverallSD": 10.1,
-    "instructorOverallSDAdjusted": 9.1
+    "instructorOverallSDAdjusted": 9.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18226,7 +18560,8 @@
     "instructorOverallMean": 95.3,
     "instructorOverallMeanAdjusted": 96.4,
     "instructorOverallSD": 10.1,
-    "instructorOverallSDAdjusted": 9.1
+    "instructorOverallSDAdjusted": 9.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18337,7 +18672,8 @@
     "instructorOverallMean": 89.6,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 17.1,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18364,7 +18700,8 @@
     "instructorOverallMean": 96.7,
     "instructorOverallMeanAdjusted": 98.1,
     "instructorOverallSD": 8.8,
-    "instructorOverallSDAdjusted": 6.9
+    "instructorOverallSDAdjusted": 6.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18391,7 +18728,8 @@
     "instructorOverallMean": 96.7,
     "instructorOverallMeanAdjusted": 98.1,
     "instructorOverallSD": 8.8,
-    "instructorOverallSDAdjusted": 6.9
+    "instructorOverallSDAdjusted": 6.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18418,7 +18756,8 @@
     "instructorOverallMean": 85,
     "instructorOverallMeanAdjusted": 86.5,
     "instructorOverallSD": 20.7,
-    "instructorOverallSDAdjusted": 19.4
+    "instructorOverallSDAdjusted": 19.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18445,7 +18784,8 @@
     "instructorOverallMean": 85,
     "instructorOverallMeanAdjusted": 86.5,
     "instructorOverallSD": 20.7,
-    "instructorOverallSDAdjusted": 19.4
+    "instructorOverallSDAdjusted": 19.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18472,7 +18812,8 @@
     "instructorOverallMean": 83.3,
     "instructorOverallMeanAdjusted": 85.9,
     "instructorOverallSD": 21,
-    "instructorOverallSDAdjusted": 15.7
+    "instructorOverallSDAdjusted": 15.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18499,7 +18840,8 @@
     "instructorOverallMean": 83.3,
     "instructorOverallMeanAdjusted": 85.9,
     "instructorOverallSD": 21,
-    "instructorOverallSDAdjusted": 15.7
+    "instructorOverallSDAdjusted": 15.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18526,7 +18868,8 @@
     "instructorOverallMean": 82.8,
     "instructorOverallMeanAdjusted": 83.9,
     "instructorOverallSD": 19.8,
-    "instructorOverallSDAdjusted": 18.6
+    "instructorOverallSDAdjusted": 18.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18553,7 +18896,8 @@
     "instructorOverallMean": 82.8,
     "instructorOverallMeanAdjusted": 83.9,
     "instructorOverallSD": 19.8,
-    "instructorOverallSDAdjusted": 18.6
+    "instructorOverallSDAdjusted": 18.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18636,7 +18980,8 @@
     "instructorOverallMean": 96.1,
     "instructorOverallMeanAdjusted": 97.1,
     "instructorOverallSD": 9.4,
-    "instructorOverallSDAdjusted": 8.3
+    "instructorOverallSDAdjusted": 8.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18663,7 +19008,8 @@
     "instructorOverallMean": 96.1,
     "instructorOverallMeanAdjusted": 97.1,
     "instructorOverallSD": 9.4,
-    "instructorOverallSDAdjusted": 8.3
+    "instructorOverallSDAdjusted": 8.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18690,7 +19036,8 @@
     "instructorOverallMean": 95.1,
     "instructorOverallMeanAdjusted": 96.9,
     "instructorOverallSD": 11.7,
-    "instructorOverallSDAdjusted": 8.4
+    "instructorOverallSDAdjusted": 8.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18717,7 +19064,8 @@
     "instructorOverallMean": 94.7,
     "instructorOverallMeanAdjusted": 97.1,
     "instructorOverallSD": 13.4,
-    "instructorOverallSDAdjusted": 8.3
+    "instructorOverallSDAdjusted": 8.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18744,7 +19092,8 @@
     "instructorOverallMean": 94.7,
     "instructorOverallMeanAdjusted": 97.1,
     "instructorOverallSD": 13.4,
-    "instructorOverallSDAdjusted": 8.3
+    "instructorOverallSDAdjusted": 8.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18771,7 +19120,8 @@
     "instructorOverallMean": 95.6,
     "instructorOverallMeanAdjusted": 96.7,
     "instructorOverallSD": 9.8,
-    "instructorOverallSDAdjusted": 8.8
+    "instructorOverallSDAdjusted": 8.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -18798,7 +19148,8 @@
     "instructorOverallMean": 95.6,
     "instructorOverallMeanAdjusted": 96.7,
     "instructorOverallSD": 9.8,
-    "instructorOverallSDAdjusted": 8.8
+    "instructorOverallSDAdjusted": 8.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -19329,7 +19680,8 @@
     "instructorOverallMean": 85.6,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 17.7,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -19636,7 +19988,8 @@
     "instructorOverallMean": 77.3,
     "instructorOverallMeanAdjusted": 77.8,
     "instructorOverallSD": 17.5,
-    "instructorOverallSDAdjusted": 15
+    "instructorOverallSDAdjusted": 15,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -19663,7 +20016,8 @@
     "instructorOverallMean": 77.3,
     "instructorOverallMeanAdjusted": 77.8,
     "instructorOverallSD": 17.5,
-    "instructorOverallSDAdjusted": 15
+    "instructorOverallSDAdjusted": 15,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -19746,7 +20100,8 @@
     "instructorOverallMean": 91.2,
     "instructorOverallMeanAdjusted": 91.7,
     "instructorOverallSD": 12.3,
-    "instructorOverallSDAdjusted": 12.2
+    "instructorOverallSDAdjusted": 12.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -19773,7 +20128,8 @@
     "instructorOverallMean": 91.2,
     "instructorOverallMeanAdjusted": 91.7,
     "instructorOverallSD": 12.3,
-    "instructorOverallSDAdjusted": 12.2
+    "instructorOverallSDAdjusted": 12.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -19800,7 +20156,8 @@
     "instructorOverallMean": 80,
     "instructorOverallMeanAdjusted": 80.8,
     "instructorOverallSD": 16.9,
-    "instructorOverallSDAdjusted": 15
+    "instructorOverallSDAdjusted": 15,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -19827,7 +20184,8 @@
     "instructorOverallMean": 80,
     "instructorOverallMeanAdjusted": 80.8,
     "instructorOverallSD": 16.9,
-    "instructorOverallSDAdjusted": 15
+    "instructorOverallSDAdjusted": 15,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -19910,7 +20268,8 @@
     "instructorOverallMean": 87.5,
     "instructorOverallMeanAdjusted": 89.6,
     "instructorOverallSD": 16.3,
-    "instructorOverallSDAdjusted": 12.9
+    "instructorOverallSDAdjusted": 12.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -19937,7 +20296,8 @@
     "instructorOverallMean": 87.5,
     "instructorOverallMeanAdjusted": 89.6,
     "instructorOverallSD": 16.3,
-    "instructorOverallSDAdjusted": 12.9
+    "instructorOverallSDAdjusted": 12.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -20188,7 +20548,8 @@
     "instructorOverallMean": 80,
     "instructorOverallMeanAdjusted": 81.3,
     "instructorOverallSD": 19.7,
-    "instructorOverallSDAdjusted": 17.7
+    "instructorOverallSDAdjusted": 17.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -20215,7 +20576,8 @@
     "instructorOverallMean": 80,
     "instructorOverallMeanAdjusted": 81.3,
     "instructorOverallSD": 19.7,
-    "instructorOverallSDAdjusted": 17.7
+    "instructorOverallSDAdjusted": 17.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -20298,7 +20660,8 @@
     "instructorOverallMean": 65.3,
     "instructorOverallMeanAdjusted": 67.2,
     "instructorOverallSD": 21.2,
-    "instructorOverallSDAdjusted": 12
+    "instructorOverallSDAdjusted": 12,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -20325,7 +20688,8 @@
     "instructorOverallMean": 65.3,
     "instructorOverallMeanAdjusted": 67.2,
     "instructorOverallSD": 21.2,
-    "instructorOverallSDAdjusted": 12
+    "instructorOverallSDAdjusted": 12,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -20520,7 +20884,8 @@
     "instructorOverallMean": 95.8,
     "instructorOverallMeanAdjusted": 97.5,
     "instructorOverallSD": 9.7,
-    "instructorOverallSDAdjusted": 7.9
+    "instructorOverallSDAdjusted": 7.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -20547,7 +20912,8 @@
     "instructorOverallMean": 95.8,
     "instructorOverallMeanAdjusted": 97.5,
     "instructorOverallSD": 9.7,
-    "instructorOverallSDAdjusted": 7.9
+    "instructorOverallSDAdjusted": 7.9,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -20574,7 +20940,8 @@
     "instructorOverallMean": 93.4,
     "instructorOverallMeanAdjusted": 95,
     "instructorOverallSD": 11.3,
-    "instructorOverallSDAdjusted": 10.4
+    "instructorOverallSDAdjusted": 10.4,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -20601,7 +20968,8 @@
     "instructorOverallMean": 93.8,
     "instructorOverallMeanAdjusted": 95,
     "instructorOverallSD": 11.3,
-    "instructorOverallSDAdjusted": 10.5
+    "instructorOverallSDAdjusted": 10.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -20628,7 +20996,8 @@
     "instructorOverallMean": 93.8,
     "instructorOverallMeanAdjusted": 95,
     "instructorOverallSD": 11.3,
-    "instructorOverallSDAdjusted": 10.5
+    "instructorOverallSDAdjusted": 10.5,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -20711,7 +21080,8 @@
     "instructorOverallMean": 87.5,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 18.3,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -20738,7 +21108,8 @@
     "instructorOverallMean": 88.9,
     "instructorOverallMeanAdjusted": 92.9,
     "instructorOverallSD": 18.2,
-    "instructorOverallSDAdjusted": 12.2
+    "instructorOverallSDAdjusted": 12.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -20765,7 +21136,8 @@
     "instructorOverallMean": 88.9,
     "instructorOverallMeanAdjusted": 92.9,
     "instructorOverallSD": 18.2,
-    "instructorOverallSDAdjusted": 12.2
+    "instructorOverallSDAdjusted": 12.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -20848,7 +21220,8 @@
     "instructorOverallMean": 77.6,
     "instructorOverallMeanAdjusted": null,
     "instructorOverallSD": 25.7,
-    "instructorOverallSDAdjusted": null
+    "instructorOverallSDAdjusted": null,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -20931,7 +21304,8 @@
     "instructorOverallMean": 91.1,
     "instructorOverallMeanAdjusted": 93.8,
     "instructorOverallSD": 15.8,
-    "instructorOverallSDAdjusted": 11.3
+    "instructorOverallSDAdjusted": 11.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -20958,7 +21332,8 @@
     "instructorOverallMean": 91.1,
     "instructorOverallMeanAdjusted": 93.8,
     "instructorOverallSD": 15.8,
-    "instructorOverallSDAdjusted": 11.3
+    "instructorOverallSDAdjusted": 11.3,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -21041,7 +21416,8 @@
     "instructorOverallMean": 92.9,
     "instructorOverallMeanAdjusted": 95.8,
     "instructorOverallSD": 15.3,
-    "instructorOverallSDAdjusted": 9.7
+    "instructorOverallSDAdjusted": 9.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -21068,7 +21444,8 @@
     "instructorOverallMean": 92.9,
     "instructorOverallMeanAdjusted": 95.8,
     "instructorOverallSD": 15.3,
-    "instructorOverallSDAdjusted": 9.7
+    "instructorOverallSDAdjusted": 9.7,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -21431,7 +21808,8 @@
     "instructorOverallMean": 80.8,
     "instructorOverallMeanAdjusted": 84.1,
     "instructorOverallSD": 20.8,
-    "instructorOverallSDAdjusted": 12.6
+    "instructorOverallSDAdjusted": 12.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -21458,7 +21836,8 @@
     "instructorOverallMean": 80.8,
     "instructorOverallMeanAdjusted": 84.1,
     "instructorOverallSD": 20.8,
-    "instructorOverallSDAdjusted": 12.6
+    "instructorOverallSDAdjusted": 12.6,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -21597,7 +21976,8 @@
     "instructorOverallMean": 86.5,
     "instructorOverallMeanAdjusted": 88.6,
     "instructorOverallSD": 19.4,
-    "instructorOverallSDAdjusted": 17.2
+    "instructorOverallSDAdjusted": 17.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -21624,7 +22004,8 @@
     "instructorOverallMean": 86.5,
     "instructorOverallMeanAdjusted": 88.6,
     "instructorOverallSD": 19.4,
-    "instructorOverallSDAdjusted": 17.2
+    "instructorOverallSDAdjusted": 17.2,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -22211,7 +22592,8 @@
     "instructorOverallMean": 90,
     "instructorOverallMeanAdjusted": 92.3,
     "instructorOverallSD": 18.4,
-    "instructorOverallSDAdjusted": 15.8
+    "instructorOverallSDAdjusted": 15.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -22238,7 +22620,8 @@
     "instructorOverallMean": 90,
     "instructorOverallMeanAdjusted": 92.3,
     "instructorOverallSD": 18.4,
-    "instructorOverallSDAdjusted": 15.8
+    "instructorOverallSDAdjusted": 15.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -22265,7 +22648,8 @@
     "instructorOverallMean": 94.2,
     "instructorOverallMeanAdjusted": 95.5,
     "instructorOverallSD": 11,
-    "instructorOverallSDAdjusted": 10.1
+    "instructorOverallSDAdjusted": 10.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -22292,7 +22676,8 @@
     "instructorOverallMean": 94.2,
     "instructorOverallMeanAdjusted": 95.5,
     "instructorOverallSD": 11,
-    "instructorOverallSDAdjusted": 10.1
+    "instructorOverallSDAdjusted": 10.1,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -22543,7 +22928,8 @@
     "instructorOverallMean": 80,
     "instructorOverallMeanAdjusted": 80.8,
     "instructorOverallSD": 16.9,
-    "instructorOverallSDAdjusted": 15
+    "instructorOverallSDAdjusted": 15,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -22570,7 +22956,8 @@
     "instructorOverallMean": 80,
     "instructorOverallMeanAdjusted": 80.8,
     "instructorOverallSD": 16.9,
-    "instructorOverallSDAdjusted": 15
+    "instructorOverallSDAdjusted": 15,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -22597,7 +22984,8 @@
     "instructorOverallMean": 98.1,
     "instructorOverallMeanAdjusted": 100,
     "instructorOverallSD": 6.9,
-    "instructorOverallSDAdjusted": 0
+    "instructorOverallSDAdjusted": 0,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -22624,7 +23012,8 @@
     "instructorOverallMean": 98.1,
     "instructorOverallMeanAdjusted": 100,
     "instructorOverallSD": 6.9,
-    "instructorOverallSDAdjusted": 0
+    "instructorOverallSDAdjusted": 0,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -22707,7 +23096,8 @@
     "instructorOverallMean": 85.9,
     "instructorOverallMeanAdjusted": 87.5,
     "instructorOverallSD": 15.7,
-    "instructorOverallSDAdjusted": 13
+    "instructorOverallSDAdjusted": 13,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -22734,7 +23124,8 @@
     "instructorOverallMean": 85.9,
     "instructorOverallMeanAdjusted": 87.5,
     "instructorOverallSD": 15.7,
-    "instructorOverallSDAdjusted": 13
+    "instructorOverallSDAdjusted": 13,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -22929,7 +23320,8 @@
     "instructorOverallMean": 78.8,
     "instructorOverallMeanAdjusted": 79.5,
     "instructorOverallSD": 20,
-    "instructorOverallSDAdjusted": 18.8
+    "instructorOverallSDAdjusted": 18.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
@@ -22956,7 +23348,8 @@
     "instructorOverallMean": 78.8,
     "instructorOverallMeanAdjusted": 79.5,
     "instructorOverallSD": 20,
-    "instructorOverallSDAdjusted": 18.8
+    "instructorOverallSDAdjusted": 18.8,
+    "lowResponseRateIndicator": false
   },
   {
     "year": "16-17",
